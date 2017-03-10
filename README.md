@@ -11,16 +11,6 @@
 Somos una comunidad de curiosos y autodidactas apasionados por la vida, los viajes y la tecnología. 
 Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.** 
 
-
-- Correo: info@vvt.io
-- Sitio: https://vvt.io
-- Facebook: https://www.facebook.com/somosvvt
-- Grupo de Facebook: https://www.facebook.com/groups/somosvvt
-- GitHub: https://github.com/somosvvt 
-- Instagram: https://instagram.com/somosvvt ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
-- Telegram: https://t.me/somosvvt ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
-- Twitter: https://twitter.com/somosvvt ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
-
 | Medios | URL | Estado
 | ------ | ------ | :------: |
 |  Correo|  info@vvt.io  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+)   
