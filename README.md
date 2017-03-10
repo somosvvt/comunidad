@@ -19,8 +19,8 @@ Listado de países con Work & Holiday para Argentinos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | Comprobante del financiamiento de gastos de manutención: 400 € mensuales para los primeros tres meses (1.200 €). |
-| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5000 dólares australianos |
+| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € |
+| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5000 AUD |
 | Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 |  |
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  |
