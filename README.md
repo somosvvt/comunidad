@@ -52,6 +52,7 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 | Google Flights | https://www.google.com/flights/ | - |
 | Kiwi | http://kiwi.com/ | - |
 | Matrix | http://matrix.itasoftware.com/ | Para usuarios avanzados |
+| Momondo |http://www.momondo.com/| - |
 
 #### Notas de nuestros usuarios: 
 
