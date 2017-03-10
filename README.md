@@ -16,10 +16,21 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 - Sitio: https://vvt.io
 - Facebook: https://www.facebook.com/somosvvt
 - Grupo de Facebook: https://www.facebook.com/groups/somosvvt
-- GitHub: https://github.com/somosvvt
-- Instagram: https://instagram.com/somosvvt (OFFLINE)
-- Telegram: https://t.me/somosvvt 
-- Twitter: https://twitter.com/somosvvt
+- GitHub: https://github.com/somosvvt 
+- Instagram: https://instagram.com/somosvvt ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+- Telegram: https://t.me/somosvvt ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+- Twitter: https://twitter.com/somosvvt ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+
+| Medios | URL | Estado
+| ------ | ------ | :------: |
+|  Correo|  info@vvt.io  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+)   
+|  Sitio |  https://vvt.io | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+|  Facebook | https://www.facebook.com/somosvvt |![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+|  Grupo de Facebook | https://www.facebook.com/groups/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+|  GitHub  | https://github.com/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+|  Instagram | https://instagram.com/somosvvt | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+|  Telegram | https://t.me/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
+|  Twitter  | https://twitter.com/somosvvt  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 
 
 ***
 
