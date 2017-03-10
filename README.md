@@ -10,6 +10,7 @@ Be nerd, be fun... be VVT!.
 - Telegram: https://t.me/somosvvt 
 - Twitter: https://twitter.com/somosvvt
 
+***
 
 
 ### Visas de trabajo y vacaciones (WORK AND HOLIDAY)
@@ -18,8 +19,9 @@ Listado de paises con Work&Holiday para Argentinos.
 
 | País | Información oficial | Límite de edad | Cupos anuales 
 | ------ | ------ | ------ |------ |
-| Australia | http://argentina.embassy.gov.au/baircastellano/W_H_Visa_General_info.html | 18 a 30 años | 700
-| Nueva Zelanda | http://www.enzel.mrecic.gob.ar/en/node/3018 | 18 a 35 años | 1000
-| Irlanda | https://www.dfa.ie/irish-embassy/argentina/our-services/visas/ireland-argentina-wha/ | 18 a 30 años | 100
-| Francia | http://www.embafrancia-argentina.org/Programa-vacaciones-y-trabajo-3339/ | 18 a 30 años | 700
-| Dinamarca | http://www.nyidanmark.dk/en-us/coming_to_dk/working_holiday/argentina.htm | 18 a 30 años | 300
+| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700
+| Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000
+| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100
+| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700
+| Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | 300
+| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300
