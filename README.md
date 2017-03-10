@@ -13,7 +13,7 @@ Be nerd, be fun... be VVT!.
 ***
 
 
-### Visas de trabajo y vacaciones (WORK AND HOLIDAY)
+## Visas de trabajo y vacaciones (WORK AND HOLIDAY)
 
 Listado de países con Work & Holiday para Argentinos. 
 
@@ -74,7 +74,7 @@ alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.)
 ### Francia 
 - Pasaporte válido de más de 1 año + copia (de la página con foto).
 - Formulario de pedido de visa de "larga estadía" (PDF-16Ko) completado y firmado.
-- 2 FOTOS CORRESPONDIENDO A LAS NORMAS INTERNACIONALES (haga click acá).
+- 2 FOTOS CORRESPONDIENDO A LAS NORMAS INTERNACIONALES.
 - Carta explicando las motivaciones del viaje, firmada y dirigida al Cónsul General de Francia (en francés o en castellano).
 - Antecedentes penales (de menos de 3 meses, no es necesaria la legalización o certificación).
 - Certificado médico de buena salud, emitido por un hospital público o privado.
