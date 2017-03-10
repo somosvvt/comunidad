@@ -21,3 +21,5 @@ Listado de paises con Work&Holiday para Argentinos.
 | Australia | http://argentina.embassy.gov.au/baircastellano/W_H_Visa_General_info.html | 18 a 30 años | 700
 | Nueva Zelanda | http://www.enzel.mrecic.gob.ar/en/node/3018 | 18 a 35 años | 1000
 | Irlanda | https://www.dfa.ie/irish-embassy/argentina/our-services/visas/ireland-argentina-wha/ | 18 a 30 años | 100
+| Francia | http://www.embafrancia-argentina.org/Programa-vacaciones-y-trabajo-3339/ | 18 a 30 años | 700
+| Dinamarca | http://www.nyidanmark.dk/en-us/coming_to_dk/working_holiday/argentina.htm | 18 a 30 años | 300
