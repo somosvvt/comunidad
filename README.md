@@ -42,4 +42,17 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 | Kiwi | http://kiwi.com/ | - |
 | Matrix | http://matrix.itasoftware.com/ | Para usuarios avanzados |
 
+#### Notas de nuestros usuarios: 
+
+Hernán
+> Ninguno, voy a la fuente derecho. La aerolinea a donde quiero ir
+
+Paola:
+> De adioso me gusta la funcionalidad de "to anywhere" y de kayak el /explore
+
+Nazareno:
+> Mi flow es: 
+>
+> 1. Si tengo fechas y destinos estrictos, empiezo desde el paso 2. Si no, busco en kiwi.com y matrix.itasoftware.com por la flexibilidad que tienen. Por ej, "Vuelos saliendo de 250km a la redonda de amsterdam con destino a cualquier lugar en Norteamerica, saliendo entre el 1 y 20 de marzo y quedándose por entre 10 y 15 noches.". Con eso elijo las que parecen ser mejores fechas. 
+> 2. Kayak y skyscanner para comparar precios. El booking lo hago por donde sea que indique mejor precio
 
