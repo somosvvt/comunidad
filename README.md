@@ -6,7 +6,7 @@ Be nerd, be fun... be VVT!.
 - Facebook: https://www.facebook.com/somosvvt
 - Grupo de Facebook: https://www.facebook.com/groups/somosvvt
 - GitHub: https://github.com/somosvvt
-- Instagram: https://instagram.com/somosvvt
+- Instagram: https://instagram.com/somosvvt (OFFLINE)
 - Telegram: https://t.me/somosvvt 
 - Twitter: https://twitter.com/somosvvt
 
@@ -17,16 +17,47 @@ Be nerd, be fun... be VVT!.
 
 Listado de países con Work & Holiday para Argentinos. 
 
-| País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
+| País | Información oficial | Límite de edad | Cupos anuales | Fondos requeridos
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € |
+| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € [+INFO](#alemania) |
 | Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD |
 | Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 5.000 NZD
-| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | €1.500 |
+| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € | 
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | - | 15.000 DKK |
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK  |
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | - |
+
+## ¿Qué requisitos debo reunir?
+
+#### Alemania 
+
+- Pasaporte argentino con vigencia mínima de 3 meses después de salir de
+Alemania y con mínimo dos páginas libres disponibles
+- Documento de identidad argentino DNI 
+- Comprobante del financiamiento de gastos de manutención:
+400 € mensuales para los primeros tres meses (1.200 €) más la cobertura de los
+gastos de alojamiento que se deben acreditar con los resúmenes bancarios propios
+(no de un tercero!) de los últimos tres meses previos a la presentación de la
+solicitud
+Aclaración: Si se ha reservado un hotel, un hostel o similar para los primeros tres
+meses se deberá presentar un comprobante de la reserva y del pago ya efectuado,
+o bien, demostrar que se poseen los recursos financieros para pagar el alojamiento
+luego del arribo a Alemania.
+Si está previsto el alojamiento en casa de amigos o parientes se deberá presentar
+una carta de invitación. En ella deberá constar que se podrá alojar en el domicilio
+mencionado en forma gratuita por el período indicado. La carta de invitación deberá
+estar firmada por el invitante y se deberá adjuntar una fotocopia del pasaporte o del
+documento de identidad de éste.
+- Pasaje de avión hacia Alemania
+- Pasaje de retorno hacia Argentina después de un año o acreditación de disponer
+de 1000€ adicionales a lo indicado en el número 1. (resúmenes bancarios propios)
+- Seguro médico y de accidente para la estadía completa con cobertura mínima de
+30.000€ que incluya repatriación sanitaria y de restos
+- Carta de motivación y justificantes/información sobre la estadía planificada en
+Alemania (contrato laboral en caso dado pero no obligatorio; acreditación de
+alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.)
+
 
 ***
 
