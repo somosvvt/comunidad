@@ -15,7 +15,7 @@ Be nerd, be fun... be VVT!.
 
 ### Visas de trabajo y vacaciones (WORK AND HOLIDAY)
 
-Listado de paises con Work&Holiday para Argentinos. 
+Listado de países con Work & Holiday para Argentinos. 
 
 | País | Información oficial | Límite de edad | Cupos anuales | Fondos requeridos 
 | ------ | ------ | ------ |------ | ------ |
