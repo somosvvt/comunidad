@@ -23,7 +23,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD ([+Info](#australia)) |
 | Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 5.000 NZD
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
-| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € | 
+| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info](#francia))| 
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | - | 15.000 DKK |
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK  |
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | - |
@@ -59,17 +59,32 @@ Alemania (contrato laboral en caso dado pero no obligatorio; acreditación de
 alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.)
 
 ### Australia 
-- Contar con pasaporte argentino;
-- Encontrarse fuera de Australia al momento de presentar su solicitud de visa;
-- Tener al menos 18 años y no haber cumplido los 31;
-- No podrá viajar con dependientes a cargo;
-- Contar con un nivel de conocimiento del inglés evaluado al menos como funcional;
-- Poseer estudios terciarios, o haber completado exitosamente al menos dos años de estudios universitarios de grado. Para mas detalles por favor revisar la pagina 3 del formulario Application for a Work & Holiday visa, form 1208. Para más información sobre el nivel académico en Australia ver aquí
-- Contar con fondos suficientes para la primera parte de su estadía en Australia (al menos 5000 dólares australianos) además del dinero para el pasaje de regreso;
-- Suministrar una carta del Gobierno Argentino que respalde su participación en el programa y que incluya una declaración de su Gobierno aprobando su estadía
+- Contar con pasaporte argentino.
+- Encontrarse fuera de Australia al momento de presentar su solicitud de visa.
+- Tener al menos 18 años y no haber cumplido los 31.
+- No podrá viajar con dependientes a cargo.
+- Contar con un nivel de conocimiento del inglés evaluado al menos como funcional.
+- Poseer estudios terciarios, o haber completado exitosamente al menos dos años de estudios universitarios de grado. Para mas detalles por favor revisar la pagina 3 del formulario Application for a Work & Holiday visa, form 1208. 
+- Contar con fondos suficientes para la primera parte de su estadía en Australia (al menos 5000 dólares australianos) además del dinero para el pasaje de regreso.
+- Suministrar una carta del Gobierno Argentino que respalde su participación en el programa y que incluya una declaración de su Gobierno aprobando su estadía.
 - Reunir los requisitos médicos. 
 
 **NOTA IMPORTANTE:** Debe considerar seriamente si reúne los requisitos para esta visa. Una vez que ha presentado su solicitud de visa, el arancel abonado no puede ser reembolsado, aún si la visa es denegada o si cambia de parecer y ya no desea viajar a Australia
+
+### Francia 
+- Pasaporte válido de más de 1 año + copia (de la página con foto).
+- Formulario de pedido de visa de "larga estadía" (PDF-16Ko) completado y firmado.
+- 2 FOTOS CORRESPONDIENDO A LAS NORMAS INTERNACIONALES (haga click acá).
+- Carta explicando las motivaciones del viaje, firmada y dirigida al Cónsul General de Francia (en francés o en castellano).
+- Antecedentes penales (de menos de 3 meses, no es necesaria la legalización o certificación).
+- Certificado médico de buena salud, emitido por un hospital público o privado.
+- Comprobantes de solvencia económica de al menos 2500€ o su equivalente en pesos ($ARS) o divisa extranjera.
+- Resumen de caja de ahorro (la cuenta debe estar a su nombre) y copia de la tarjeta internacional o Acta notarial de constatación certificando la posesión de la suma en efectivo.
+- Comprobantes de alojamiento por los primeros 15 días : reserva de hotel si es un particular : carta de invitación con copia de su documento de identidad y factura de servicio.
+- Reserva / presupuesto del seguro medico por 365 días.
+- Reserva del pasaje : ida y vuelta (con fechas de retorno flexible). En caso de no poder presentar el pasaje de vuelta, tendrá que comprometerse, en la carta de motivación, a comprar un pasaje de vuelta.
+
+**NOTA IMPORTANTE:** para el día del turno, no exigimos que el solicitante compre el pasaje y el seguro. Si el expediente esta completo, el servicio de visa le dará el acuerdo para que los compre y que los mande por email. A su elección, el solicitante puede también presentar, el día del turno, el pasaje y el seguro comprados para adelantar el proceso.
 
 
 ***
