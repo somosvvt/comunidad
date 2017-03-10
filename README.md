@@ -20,13 +20,13 @@ Listado de países con Work & Holiday para Argentinos.
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
 | Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € |
-| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5000 AUD |
-| Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 
-| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 |  |
-| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  |
-| Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | - |  |
-| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | |
-| España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 |  |
+| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD |
+| Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 5.000 NZD
+| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | €1.500 |
+| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € | 
+| Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | - | 15.000 DKK |
+| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK  |
+| España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | - |
 
 ***
 
