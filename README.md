@@ -25,7 +25,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 | $41.090
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | 300 | $33.336
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | $60.000
-| Espana | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | $38.702
+| Espana | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | -
 
 ### Sitios para encontrar vuelos al mejor precio. 
 
