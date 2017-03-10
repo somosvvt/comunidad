@@ -28,6 +28,8 @@ Listado de países con Work & Holiday para Argentinos.
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 |
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | 
 
+***
+
 ### Sitios para encontrar vuelos al mejor precio. 
 
 Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor precio.  
@@ -44,7 +46,7 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 
 #### Notas de nuestros usuarios: 
 
-Hernán
+Hernán:
 > Ninguno, voy a la fuente derecho. La aerolinea a donde quiero ir
 
 Paola:
