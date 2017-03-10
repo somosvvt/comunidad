@@ -19,8 +19,8 @@ Listado de países con Work & Holiday para Argentinos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | Fondos requeridos
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € [+INFO](#alemania) |
-| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD |
+| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € ([+Info](#alemania)) |
+| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD ([+Info](#australia)) |
 | Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 5.000 NZD
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € | 
@@ -30,7 +30,7 @@ Listado de países con Work & Holiday para Argentinos.
 
 ## ¿Qué requisitos debo reunir?
 
-#### Alemania 
+### Alemania 
 
 - Pasaporte argentino con vigencia mínima de 3 meses después de salir de
 Alemania y con mínimo dos páginas libres disponibles
@@ -57,6 +57,19 @@ de 1000€ adicionales a lo indicado en el número 1. (resúmenes bancarios prop
 - Carta de motivación y justificantes/información sobre la estadía planificada en
 Alemania (contrato laboral en caso dado pero no obligatorio; acreditación de
 alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.)
+
+### Australia 
+- Contar con pasaporte argentino;
+- Encontrarse fuera de Australia al momento de presentar su solicitud de visa;
+- Tener al menos 18 años y no haber cumplido los 31;
+- No podrá viajar con dependientes a cargo;
+- Contar con un nivel de conocimiento del inglés evaluado al menos como funcional;
+- Poseer estudios terciarios, o haber completado exitosamente al menos dos años de estudios universitarios de grado. Para mas detalles por favor revisar la pagina 3 del formulario Application for a Work & Holiday visa, form 1208. Para más información sobre el nivel académico en Australia ver aquí
+- Contar con fondos suficientes para la primera parte de su estadía en Australia (al menos 5000 dólares australianos) además del dinero para el pasaje de regreso;
+- Suministrar una carta del Gobierno Argentino que respalde su participación en el programa y que incluya una declaración de su Gobierno aprobando su estadía
+- Reunir los requisitos médicos. 
+
+**NOTA IMPORTANTE:** Debe considerar seriamente si reúne los requisitos para esta visa. Una vez que ha presentado su solicitud de visa, el arancel abonado no puede ser reembolsado, aún si la visa es denegada o si cambia de parecer y ya no desea viajar a Australia
 
 
 ***
