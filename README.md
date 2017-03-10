@@ -2,6 +2,7 @@
 - [Nuestra comunidad](#nuestra-comunidad)
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
 - [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
+- [Sitios para encontrar alojamientos al mejor precio](#sitios-para-encontrar-alojamientos-al-mejor-precio)
 
 ## Nuestra comunidad
 
@@ -124,4 +125,15 @@ Nazareno:
 >
 > 1. Si tengo fechas y destinos estrictos, empiezo desde el paso 2. Si no, busco en kiwi.com y matrix.itasoftware.com por la flexibilidad que tienen. Por ej, "Vuelos saliendo de 250km a la redonda de amsterdam con destino a cualquier lugar en Norteamerica, saliendo entre el 1 y 20 de marzo y quedándose por entre 10 y 15 noches.". Con eso elijo las que parecen ser mejores fechas. 
 > 2. Kayak y skyscanner para comparar precios. El booking lo hago por donde sea que indique mejor precio
+
+
+***
+
+## Sitios para encontrar alojamientos al mejor precio. 
+
+Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio.  
+
+| Sitio | URL | Comentarios
+| ------ | ------ | :------: |
+
 
