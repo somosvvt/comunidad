@@ -33,7 +33,7 @@ Listado de países con Work & Holiday para Argentinos.
 | ------ | ------ | :------------------: |:------: | :------ |
 | Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| - | 1.200 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#alemania)) |
 | Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#australia)) |
-| Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 5.000 NZD
+| Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4.200 NZD
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))| 
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | - | 15.000 DKK |
