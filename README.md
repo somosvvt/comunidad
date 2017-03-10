@@ -27,7 +27,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | $60.000
 | Espana | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | $38.702
 
-### Sitios para buscar los mejores precios de pasajes de avión 
+### Sitios para encontrar vuelos al mejor precio. 
 
 Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor precio.  
 
