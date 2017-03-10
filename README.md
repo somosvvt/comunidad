@@ -19,7 +19,7 @@ Listado de países con Work & Holiday para Argentinos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------: |:------: | :------ |
-| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años | - |
+| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años | - | 1. Comprobante del financiamiento de gastos de manutención: 400 € mensuales para los primeros tres meses (1.200 €) más la cobertura de los gastos de alojamiento que se deben acreditar con los resúmenes bancarios propios (no de un tercero!) de los últimos tres meses previos a la presentación de la solicitud <br /> 2. Pasaje de avión hacia Alemania <br /> 3.  Pasaje de retorno hacia Argentina después de un año o acreditación de disponer de 1000€ adicionales a lo indicado en el número 1. (resúmenes bancarios propios) <br /> 4. Carta de motivación y justificantes/información sobre la estadía planificada en Alemania (contrato laboral en caso dado pero no obligatorio; acreditación de alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.) 
 | Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  1.  Poseer estudios terciarios, o haber completado exitosamente al menos dos años de estudios universitarios de grado. <br /> 2.  Contar con fondos suficientes para la primera parte de su estadía en Australia (al menos 5000 dólares australianos) además del dinero para el pasaje de regreso. <br /> 3. Suministrar una carta del Gobierno Argentino que respalde su participación en el programa y que incluya una declaración de su Gobierno aprobando su estadía.
 | Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 
