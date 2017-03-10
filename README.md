@@ -1,5 +1,13 @@
-# Nuestra comunidad
-Be nerd, be fun... be VVT!.  
+# INDICE 
+- [Nuestra comunidad](#nuestra-comunidad)
+- [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
+- [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
+
+## Nuestra comunidad
+
+Somos una comunidad de curiosos y autodidactas apasionados por la vida, los viajes y la tecnología. 
+Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.** 
+
 
 - Correo: info@vvt.io
 - Sitio: https://vvt.io
@@ -13,7 +21,7 @@ Be nerd, be fun... be VVT!.
 ***
 
 
-## Visas de trabajo y vacaciones (WORK AND HOLIDAY)
+## Visas de trabajo y vacaciones
 
 Listado de países con Work & Holiday para Argentinos. 
 
@@ -89,7 +97,7 @@ alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.)
 
 ***
 
-### Sitios para encontrar vuelos al mejor precio. 
+## Sitios para encontrar vuelos al mejor precio. 
 
 Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor precio.  
 
