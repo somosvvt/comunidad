@@ -17,10 +17,10 @@ Be nerd, be fun... be VVT!.
 
 Listado de países con Work & Holiday para Argentinos. 
 
-| País | Información oficial | Límite de edad | Cupos anuales | Fondos requeridos 
-| ------ | ------ | :------: |:------: | :------: |
-| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años | - | 
-| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 | 
+| País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
+| ------ | ------ | :------: |:------: | :------ |
+| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años | - |
+| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  1.  Poseer estudios terciarios, o haber completado exitosamente al menos dos años de estudios universitarios de grado. <br /> 2.  Contar con fondos suficientes para la primera parte de su estadía en Australia (al menos 5000 dólares australianos) además del dinero para el pasaje de regreso. <br /> 3. Suministrar una carta del Gobierno Argentino que respalde su participación en el programa y que incluya una declaración de su Gobierno aprobando su estadía.
 | Nueva Zelanda | https://goo.gl/Hvit7a | 18 a 35 años | 1000 | 
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 | 
