@@ -92,7 +92,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 ## Aplicaciones útiles para nuestro viaje.
 
-Listado de las aplicaciones utilizadas por la comunidad para tener la mejor experiencia durante su viaje.  
+Listado de las aplicaciones utilizadas y recomendadas por la comunidad.   
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
