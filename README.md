@@ -14,7 +14,7 @@
   - [Transportes ](#transportes)
   - [Estilo de vida](#Estilo-de-vida)
   - [Finanzas](#finanzas)
-  - [Utilidades varias ](#utilidades-varias)
+  - [Utilidades varias](#utilidades-varias)
 - [Sitios y consejos para trabajar remoto](#sitios-y-consejos-para-trabajar-remoto)
 
 ## Nuestra comunidad
