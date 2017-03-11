@@ -5,13 +5,12 @@
 - [Sitios para encontrar alojamientos](#sitios-para-encontrar-alojamientos)
 - [Aplicaciones útiles para nuestro viaje](#aplicaciones-útiles-para-nuestro-viaje)
   - [Mapas](#mapas)
-  - [Planificación de viajes](#planificación-de-viajes)
-  - [Wikis informativas y específicas](#wikis-informativas-y-específicas)
+  - [Planificación de viajes](#planificación-de-viajes)
+  - [Wikis informativas y específicas](#wikis-informativas-y-específicas)
   - [Transportes](#transportes)
   - [Alimentación](#alimentación)
   - [Economía personal](#economía-personal)
   - [Varios](#varios)
-  
 - [Sitios y consejos para trabajar remoto](#sitios-y-consejos-para-trabajar-remoto)
 
 ## Nuestra comunidad
