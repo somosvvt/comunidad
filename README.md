@@ -193,10 +193,8 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 
 ### Coworking en Argentina. 
 
-| Nombre | URL | Locación | Costo 
-| ------ | ------ | ------ | ------ |
-| La Maquinita Co. | https://www.lamaquinita.co/ |  - Palermo Soho                    | $2.900 + IVA  
-|                  |                             |  - Vicente Lopez                   |
-|                  |                             |  - Palermo Holliwood              |
-|                  |                             |  - Villa Crespo, Belgrano         | 
+| Nombre | URL | Sucursales | Comentarios | Costo 
+| ------ | ------ | ------ | ------ | ------ |
+| La Maquinita Co. | https://www.lamaquinita.co | 5 | La red de espacios de Coworking más grande de la Argentina | $2.900 + IVA  
+
 
