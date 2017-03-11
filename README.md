@@ -92,12 +92,17 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 Listado de los sitios utilizado por la comunidad para buscar alojamientos gratuitos.
 
-| Sitio | URL | Comentarios
-| ------ | ------ | ------ |
-| Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
-| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  |
-| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. |
-| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. |
+| Sitio  |  URL   | Comentarios | Suscripción Anual | 
+| ------ | ------ | ----------- | :---------------: |
+| Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente | No |
+| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  | No |
+| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. | No |
+| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. | No |
+| TrustedHousesitters | https://www.trustedhousesitters.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | 75 USD |
+| Mindmyhouse | http://www.mindmyhouse.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa.  | 20 USD |
+| Housecarers | https://www.housecarers.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | 50 USD |
+
+
 
 ***
 
