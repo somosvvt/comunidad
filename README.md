@@ -2,7 +2,7 @@
 - [Nuestra comunidad](#nuestra-comunidad)
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
 - [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
-- [Sitios para encontrar alojamientos al mejor precio](#sitios-para-encontrar-alojamientos-al-mejor-precio)
+- [Sitios para encontrar alojamientos](#sitios-para-encontrar-alojamientos)
 - [Aplicaciones útiles para nuestro viaje.](#aplicaciones-útiles-para-nuestro-viaje)
 - [Sitios y consejos para trabajar remoto](#sitios-y-consejos-para-trabajar-remoto)
 
@@ -44,7 +44,7 @@ Listado de países con Work & Holiday para Argentinos.
 
 ***
 
-## Sitios para encontrar vuelos al mejor precio. 
+## Sitios para encontrar vuelos al mejor precio 
 
 Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor precio.  
 
@@ -76,9 +76,9 @@ Nazareno:
 
 ***
 
-## Sitios para encontrar alojamientos al mejor precio. 
+## Sitios para encontrar alojamientos
 
-Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio (y hasta gratuitos!)  
+Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio.
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
@@ -89,6 +89,11 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | Opodo  | http://www.opodo.com | Buscador de hoteles |
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
+
+Listado de los sitios utilizado por la comunidad para buscar alojamientos gratuitos.
+
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
 | WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  |
 | HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. |
@@ -96,9 +101,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 ***
 
-## Aplicaciones útiles para nuestro viaje.
-
-
+## Aplicaciones útiles para nuestro viaje
 
 Listado de las aplicaciones utilizadas y recomendadas por la comunidad.   
 
