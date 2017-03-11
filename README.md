@@ -124,3 +124,6 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  Combina todos los medios de transporte para encontrar la mejor ruta. |
 | Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
 | Waygoapp  | http://www.waygoapp.com | Servicio de traducción visual. Traduce automaticamente del Chino, Japones y Coreano al ingles. No requiere de conexión a internet, super útil para cuando se viaja por Asia.|
+| Splitwise  | https://goo.gl/VRpoYv | Splitwise es la mejor manera de llevar las cuentas y de asegurarse de que todos pagan la parte que corresponde. Esta aplicación es práctica para llevar las cuentas entre compañeros de piso, como el alquiler o las facturas de casa; con amigos o con la pareja, y para gestionar los gastos cuando vamos de viaje o de vacaciones en grupo. O simplemente para recordar que un amigo te debe el dinero de la comida. ¡Y es gratuita!.|
+
+
