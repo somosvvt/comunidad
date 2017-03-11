@@ -50,14 +50,14 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 
 | Sitio | URL | Comentarios
 | ------ | ------ | :------: |
-| Skyscanner | https://www.skyscanner.net | - |
-| Hipmunk | https://www.hipmunk.com/flights | - |
-| Adioso | http://adioso.com | - |
-| Kayak | https://www.kayak.com | - |
-| Google Flights | https://www.google.com/flights | - |
-| Kiwi | http://kiwi.com | - |
+| Skyscanner | https://www.skyscanner.net | Fácil de usar |
+| Hipmunk | https://www.hipmunk.com/flights | Fácil de usar |
+| Adioso | http://adioso.com | Fácil de usar |
+| Kayak | https://www.kayak.com | Fácil de usar |
+| Google Flights | https://www.google.com/flights | Fácil de usar |
+| Kiwi | http://kiwi.com | Fácil de usar |
 | Matrix | http://matrix.itasoftware.com | Para usuarios avanzados |
-| Momondo |http://www.momondo.com | - |
+| Momondo |http://www.momondo.com | Fácil de usar |
 
 #### Notas de nuestros usuarios: 
 
