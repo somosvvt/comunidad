@@ -22,8 +22,10 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 |  Telegram | https://t.me/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 |  Twitter  | https://twitter.com/somosvvt  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 
-***
 
+**Agradecemos a todos los colegas de VVT que colaboraron con ideas y sugerencias para esta guía:** Paola Sapoznik Derman, Gonzalo Naveira, Anibal Martínez, Sergio Urin, Matias Gagliardi Natalia Pizzi, Verónica Toller, Nazareno Lorenzo, Aldano Pelusso, Hernán Diego, Diego Maximiliano, Juan Pablo Beldomenico, Cristian Giménez, Rodrigo Gemin, Lucas Baldoni, Roxy Bo y Gus Aragón.
+
+***
 
 ## Visas de trabajo y vacaciones
 
