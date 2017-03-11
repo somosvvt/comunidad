@@ -90,17 +90,17 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 
-Listado de los sitios utilizado por la comunidad para buscar alojamientos gratuitos.
+Listado de los sitios utilizado por la comunidad para buscar alojamientos gratuitos. 
 
-| Sitio  |  URL   | Comentarios | Suscripción Anual | 
+| Sitio  |  URL   | Comentarios | Suscripción | 
 | ------ | ------ | ----------- | :---------------: |
-| Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente | No |
-| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  | No |
-| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. | No |
-| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. | No |
-| TrustedHousesitters | https://www.trustedhousesitters.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | 75 USD |
-| Mindmyhouse | http://www.mindmyhouse.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa.  | 20 USD |
-| Housecarers | https://www.housecarers.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | 50 USD |
+| Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente | 20 USD x año |
+| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  | 38 USD x año |
+| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. | 20 € x2 años |
+| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. | 38 USD x año |
+| TrustedHousesitters | https://www.trustedhousesitters.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | 75 USD x año |
+| Mindmyhouse | http://www.mindmyhouse.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa.  | 20 USD x año |
+| Housecarers | https://www.housecarers.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | 50 USD x año |
 
 
 
