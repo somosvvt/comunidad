@@ -92,11 +92,12 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 ## Aplicaciones útiles para nuestro viaje.
 
-Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio.  
+Listado de las aplicaciones utilizadas por la comunidad para tener la mejor experiencia durante su viaje.  
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
-| Google Maps | https://maps.google.com.ar/ | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
+| Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión |
+| Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. Dropbox salvo a más de una persona durante su viaje. |
 
 
