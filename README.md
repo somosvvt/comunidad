@@ -100,6 +100,9 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
-| XE Currency Converter | http://www.xe.com/apps | APP que nos permite estar al tanto de forma facil del cambio de moneda en cada pais. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
+| XE Currency Converter | http://www.xe.com/apps | Nos permite estar al tanto de forma fácil del cambio de moneda en cada país. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
+| UBER | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
+| Duolingo | https://www.duolingo.com/ | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
+| Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  |
 
 
