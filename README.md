@@ -195,5 +195,8 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 
 | Nombre | URL | Locación | Costo 
 | ------ | ------ | ------ | ------ |
-| La Maquinita Co. | https://www.lamaquinita.co/ | Palermo Soho, Vicente Lopez, Palermo Holliwood, Villa Crespo, Belgrano | $2.900 + IVA  
+| La Maquinita Co. | https://www.lamaquinita.co/ |  - Palermo Soho                    | $2.900 + IVA  
+|                  |                             |  - Vicente Lopez                   |
+|                  |                             |  - Palermo Holliwood              |
+|                  |                             |  - Villa Crespo, Belgrano         | 
 
