@@ -76,7 +76,7 @@ Nazareno:
 
 ## Sitios para encontrar alojamientos al mejor precio. 
 
-Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio.  
+Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio (y hasta gratuitos!)  
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
@@ -88,6 +88,9 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
+| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  |
+| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. |
+| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. |
 
 ***
 
