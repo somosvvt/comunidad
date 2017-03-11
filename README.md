@@ -40,7 +40,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info] (https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))| 
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | Ilimitadas | 15.000 DKK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#dinamarca))| 
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
-| España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | - |
+| España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | En proceso de aprobación |
 
 ***
 
