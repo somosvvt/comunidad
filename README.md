@@ -97,7 +97,7 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
-| Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión |
-| Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. Dropbox salvo a más de una persona durante su viaje. |
+| Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
+| Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
 
 
