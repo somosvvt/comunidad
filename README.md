@@ -103,6 +103,6 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | XE Currency Converter | http://www.xe.com/apps | Nos permite estar al tanto de forma fácil del cambio de moneda en cada país. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
 | UBER | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 | Duolingo | https://www.duolingo.com/ | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
-| Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  |
+| Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  Combina todos los medios de transporte para encontrar la mejor ruta. |
 
 
