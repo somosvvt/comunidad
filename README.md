@@ -3,6 +3,14 @@
 ## ÍNDICE 
 - [Nuestra comunidad](#nuestra-comunidad)
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
+    - [Alemania](#visas-de-trabajo-y-vacaciones)
+    - [Australia](#visas-de-trabajo-y-vacaciones)
+    - [Dinamarca](#visas-de-trabajo-y-vacaciones)
+    - [España](#visas-de-trabajo-y-vacaciones)
+    - [Francia](#visas-de-trabajo-y-vacaciones)
+    - [Irlanda](#visas-de-trabajo-y-vacaciones)
+    - [Noruega](#visas-de-trabajo-y-vacaciones)
+    - [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)
 - [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
 - [Sitios para encontrar alojamientos](#sitios-para-encontrar-alojamientos)
     - [Al mejor precio](#sitios-para-encontrar-alojamientos)
@@ -45,12 +53,14 @@ Listado de países con Work & Holiday para Argentinos.
 | ------ | ------ | :------------------: |:------: | :------ |
 | Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| Ilimitadas | 1.200 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#alemania)) |
 | Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#australia)) |
-| Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4.200 NZD
-| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
-| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info] (https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))| 
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | Ilimitadas | 15.000 DKK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#dinamarca))| 
-| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | En proceso de aprobación |
+| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info] (https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))|
+| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
+| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
+| Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4.200 NZD
+
+
 
 ***
 
