@@ -88,6 +88,4 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
 
-http://www.opodo.com/
-
 
