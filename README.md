@@ -194,7 +194,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 ### Coworking en Argentina. 
 
 | Nombre | URL | Sucursales | Comentarios | Costo 
-| ------ | ------ | ------ | ------ | ------ |
-| La Maquinita Co. | https://www.lamaquinita.co | 5 | La red de espacios de Coworking más grande de la Argentina | **Miembro** Trabaja desde el Hot Desk de cualquiera de los espacios de la MQCo. hasta 12 jornadas por mes: incluye uso de salas y full access a todos los eventos de la Comunidad.: $2.900 + IVA. **SURF DESK** .Tené tu puesto fijo en un ambiente colaborativo y encontrá la sinergia que tu emprendimiento necesita. $2.900 + IVA |  
-
+| ------ | ------ | :------: | ------ | ------ |
+| La Maquinita Co. | https://www.lamaquinita.co | 7 | La red de espacios de Coworking más grande de la Argentina | **Miembro** Trabaja desde el Hot Desk de cualquiera de los espacios de la MQCo. hasta 12 jornadas por mes: incluye uso de salas y full access a todos los eventos de la Comunidad.: $2.900 + IVA. **SURF DESK** .Tené tu puesto fijo en un ambiente colaborativo y encontrá la sinergia que tu emprendimiento necesita. $2.900 + IVA |  
+| Urban Station | https://goo.gl/WCixWH | 5 | Urban Station es la primera red a nivel mundial para los trabajadores moviles y para todos aquellos que compartan la idea de que es posible trabajar o reunirse de otra manera. | |
 
