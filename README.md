@@ -56,7 +56,7 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 | Kayak | https://www.kayak.com | Fácil de usar |
 | Google Flights | https://www.google.com/flights | Fácil de usar |
 | Kiwi | http://kiwi.com | Fácil de usar |
-| Matrix | http://matrix.itasoftware.com | Para usuarios avanzados |
+| Matrix | http://matrix.itasoftware.com | Difícil de usar |
 | Momondo |http://www.momondo.com | Fácil de usar |
 
 #### Notas de nuestros usuarios: 
