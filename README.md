@@ -110,25 +110,59 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 ## Aplicaciones útiles para nuestro viaje
 
-Listado de las aplicaciones utilizadas y recomendadas por la comunidad.   
+### Listado de las aplicaciones utilizadas y recomendadas por la comunidad.  
+
+#### Mapas 
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
+| Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
+
+#### Planificación de viajes  
+| Hopper | http://www.hopper.com/ | Hopper analiza millones de vuelos, predice cómo fluctuarán los precios y avisa del mejor momento para comprar los billetes o emprender el viaje. Gratis para iOS y Android.  |
+| Google Trips  | https://goo.gl/w4Jggt | Google Trips es una aplicación gratuita para iOS y Android que detecta automáticamente las reservas de vuelos, hoteles y eventos a partir de la información encontrada en la cuenta de Gmail y la actividad del usuario y las organiza en carpetas de viajes individuales y personalizadas con planes del día, mapas, rutas, lugares donde comer o información meteorológica, así como los datos de las reserva -vuelos, fechas, horarios, localizadores de hotel, tarjetas de embarque-, reunidos en un solo lugar. La información de cada viaje se puede descargar para utilizarla después sin conexión a Internet. |
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
 | Wikitravel | http://wikitravel.org | Guía de viajes global, gratis, completa, actualizada, y confiable que recientemente ha superado en sus diversas versiones las 10.000 guías y artículos, escritos y editados por Wikiviajantes procedentes de todos los rincones del globo.  |
 | Hitchwiki | http://hitchwiki.org | Aqui encontrarás toda esa información que jamás encontrarías en una guia de viajes: Cual es el mejor punto para hacer dedo, con quien hay que hablar para que te lleven, donde te podés quedar a dormir, etc. |
-| Hopper | http://www.hopper.com/ | Hopper analiza millones de vuelos, predice cómo fluctuarán los precios y avisa del mejor momento para comprar los billetes o emprender el viaje. Gratis para iOS y Android.  |
-| Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
-| Google Trips  | https://goo.gl/w4Jggt | Google Trips es una aplicación gratuita para iOS y Android que detecta automáticamente las reservas de vuelos, hoteles y eventos a partir de la información encontrada en la cuenta de Gmail y la actividad del usuario y las organiza en carpetas de viajes individuales y personalizadas con planes del día, mapas, rutas, lugares donde comer o información meteorológica, así como los datos de las reserva -vuelos, fechas, horarios, localizadores de hotel, tarjetas de embarque-, reunidos en un solo lugar. La información de cada viaje se puede descargar para utilizarla después sin conexión a Internet. |
-| Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
-| Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
-| XE Currency | http://www.xe.com/apps | Nos permite estar al tanto de forma fácil del cambio de moneda en cada país. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
-| UBER | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
+
+#### Wikis informativas y específicas  
+
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
+| Wikitravel | http://wikitravel.org | Guía de viajes global, gratis, completa, actualizada, y confiable que recientemente ha superado en sus diversas versiones las 10.000 guías y artículos, escritos y editados por Wikiviajantes procedentes de todos los rincones del globo.  |
+| Hitchwiki | http://hitchwiki.org | Aqui encontrarás toda esa información que jamás encontrarías en una guia de viajes: Cual es el mejor punto para hacer dedo, con quien hay que hablar para que te lleven, donde te podés quedar a dormir, etc. |
+
+#### Idiomas  
 | Duolingo | https://www.duolingo.com | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
+| Waygoapp  | http://www.waygoapp.com | Servicio de traducción visual. Traduce automaticamente del Chino, Japones y Coreano al ingles. No requiere de conexión a internet, super útil para cuando se viaja por Asia.|
+
+#### Transportes 
+
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
 | Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  Combina todos los medios de transporte para encontrar la mejor ruta. |
 | Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
-| Waygoapp  | http://www.waygoapp.com | Servicio de traducción visual. Traduce automaticamente del Chino, Japones y Coreano al ingles. No requiere de conexión a internet, super útil para cuando se viaja por Asia.|
-| Air Help  | https://www.airhelp.com/es | Air Help es una aplicación que permite gestionar desde el móvil y en solo tres minutos las indemnizaciones por retrasos, cancelaciones y overbooking de los vuelos (entre 250 y 600 euros), sin hacer colas en los mostradores de las compañías. Cobran el 25% de la reclamación solo si esta prospera. Disponible para iOS o Android.|
-| CeliCity  | http://celicity.com/ |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android.
-| Splitwise  | https://goo.gl/VRpoYv | Splitwise es la mejor manera de llevar las cuentas y de asegurarse de que todos pagan la parte que corresponde. Esta aplicación es práctica para llevar las cuentas entre compañeros de piso, como el alquiler o las facturas de casa; con amigos o con la pareja, y para gestionar los gastos cuando vamos de viaje o de vacaciones en grupo. O simplemente para recordar que un amigo te debe el dinero de la comida. ¡Y es gratuita!.|
+| Uber | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 
+#### Alimentación 
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
+| CeliCity  | http://celicity.com/ |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
+
+#### Economía personal   
+
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
+| Splitwise  | https://goo.gl/VRpoYv | Splitwise es la mejor manera de llevar las cuentas y de asegurarse de que todos pagan la parte que corresponde. Esta aplicación es práctica para llevar las cuentas entre compañeros de piso, como el alquiler o las facturas de casa; con amigos o con la pareja, y para gestionar los gastos cuando vamos de viaje o de vacaciones en grupo. O simplemente para recordar que un amigo te debe el dinero de la comida. ¡Y es gratuita!.|
+| XE Currency | http://www.xe.com/apps | Nos permite estar al tanto de forma fácil del cambio de moneda en cada país. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
+
+
+#### Varios 
+
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
+| Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
+| Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
+| Air Help  | https://www.airhelp.com/es | Air Help es una aplicación que permite gestionar desde el móvil y en solo tres minutos las indemnizaciones por retrasos, cancelaciones y overbooking de los vuelos (entre 250 y 600 euros), sin hacer colas en los mostradores de las compañías. Cobran el 25% de la reclamación solo si esta prospera. Disponible para iOS o Android.|
 
