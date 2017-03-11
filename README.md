@@ -82,9 +82,9 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
-| Booking | https://www.booking.com | Clásico |
-| Expedia | https://www.expedia.com | Clásico |
-| Agoda | https://www.agoda.com | Clásico de Asia|
+| Booking | https://www.booking.com | Referente global |
+| Expedia | https://www.expedia.com | Referente global |
+| Agoda | https://www.agoda.com | Referente de Asia|
 | Hostelworld  | http://www.hostelworld.com | Buscador de hostels |
 | Opodo  | http://www.opodo.com | Buscador de hoteles |
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
