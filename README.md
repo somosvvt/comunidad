@@ -82,8 +82,9 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | ------ | ------ | ------ |
 | Booking | https://www.booking.com | Clásico |
 | Expedia | https://www.expedia.com | Clásico |
+| Agoda | https://www.agoda.com | Clásico de Asia|
 | Hostelworld  | http://www.hostelworld.com | Buscador de hostels |
-| Opodo  | http://www.opodo.com/ | Buscador de hoteles |
+| Opodo  | http://www.opodo.com | Buscador de hoteles |
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
@@ -99,5 +100,6 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
+| XE Currency Converter | http://www.xe.com/apps | APP que nos permite estar al tanto de forma facil del cambio de moneda en cada pais. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
 
 
