@@ -197,4 +197,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | ------ | ------ | :-----------: | ----------- | ------ |
 | La Maquinita Co. | https://www.lamaquinita.co | 7 | La red de espacios de Coworking más grande de la Argentina | **Hot Desk**: Hasta 12 jornadas por mes: incluye uso de salas y full access a todos los eventos de la Comunidad.: $2.000 + IVA. **SURF DESK**: Tené tu puesto fijo en un ambiente colaborativo y encontrá la sinergia que tu emprendimiento necesita. $2.900 + IVA |  
 | Urban Station | https://goo.gl/WCixWH | 4 | Urban Station es la primera red a nivel mundial para los trabajadores moviles. | El costo del uso del servicio es de $65 por hora e incluye coffe break free (café, té, infusiones, medialunas, frutas, tostadas, galletitas y agua mineral). **PASE MENSUAL**: Adquiriendo el pase mensual tenés el beneficio de trabajar sin preocuparte por las horas que consumís. Ademas de 4 horas gratis de la sala de reunión para 8 personas cada mes. Valor mensual: $2900 +IVA |
+| StartupM3 | http://startupm3.com/ | 1 | En StartUpM3 creemos en el potencial de la comunidad para generar transformaciones que potencian ideas de impacto social, ambiental y de negocios. | **PLAN EMPRENDEDOR** Valor mensual: $3700 Incluye: Talleres y Actividades (org. p/SUM3) 30% dto, Alquiler de Sala 30% dto
+Oficina virtual (recibimos tu correspondencia), OKEI Deli & Café 15% dto, Locker free, Impresora (20 copias free),Tu logo en nuestra web y redes |
+
 
