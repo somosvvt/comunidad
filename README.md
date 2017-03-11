@@ -195,6 +195,6 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 
 | Nombre | URL | Sucursales | Comentarios | Costo 
 | ------ | ------ | ------ | ------ | ------ |
-| La Maquinita Co. | https://www.lamaquinita.co | 5 | La red de espacios de Coworking más grande de la Argentina | $2.900 + IVA  
+| La Maquinita Co. | https://www.lamaquinita.co | 5 | La red de espacios de Coworking más grande de la Argentina | **Miembro** Trabaja desde el Hot Desk de cualquiera de los espacios de la MQCo. hasta 12 jornadas por mes: incluye uso de salas y full access a todos los eventos de la Comunidad.: $2.900 + IVA. **SURF DESK** .Tené tu puesto fijo en un ambiente colaborativo y encontrá la sinergia que tu emprendimiento necesita. $2.900 + IVA |  
 
 
