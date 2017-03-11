@@ -48,14 +48,14 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 
 | Sitio | URL | Comentarios
 | ------ | ------ | :------: |
-| Skyscanner | https://www.skyscanner.net/ | - |
+| Skyscanner | https://www.skyscanner.net | - |
 | Hipmunk | https://www.hipmunk.com/flights | - |
-| Adioso | http://adioso.com/ | - |
-| Kayak | https://www.kayak.com/ | - |
-| Google Flights | https://www.google.com/flights/ | - |
-| Kiwi | http://kiwi.com/ | - |
-| Matrix | http://matrix.itasoftware.com/ | Para usuarios avanzados |
-| Momondo |http://www.momondo.com/| - |
+| Adioso | http://adioso.com | - |
+| Kayak | https://www.kayak.com | - |
+| Google Flights | https://www.google.com/flights | - |
+| Kiwi | http://kiwi.com | - |
+| Matrix | http://matrix.itasoftware.com | Para usuarios avanzados |
+| Momondo |http://www.momondo.com | - |
 
 #### Notas de nuestros usuarios: 
 
@@ -81,9 +81,9 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
 | Booking | https://www.booking.com | - |
-| Expedia | https://www.expedia.com/ | - |
-| Hostelworld  | http://www.hostelworld.com/ | Buscador de hostels |
-| HRS | http://www.hrs.com/ | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
+| Expedia | https://www.expedia.com | - |
+| Hostelworld  | http://www.hostelworld.com | Buscador de hostels |
+| HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
 
