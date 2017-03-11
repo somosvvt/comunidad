@@ -3,7 +3,7 @@
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
 - [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
 - [Sitios para encontrar alojamientos al mejor precio](#sitios-para-encontrar-alojamientos-al-mejor-precio)
-- [Aplicaciones para organizar nuestro viaje](#aplicaciones-para-organizar-nuestro-viaje)
+- [Aplicaciones útiles para nuestro viaje.](#aplicaciones-útiles-para-nuestro-viaje)
 - [Sitios y consejos para trabajar remoto](#sitios-y-consejos-para-trabajar-remoto)
 
 ## Nuestra comunidad
@@ -87,5 +87,16 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
+
+***
+
+## Aplicaciones útiles para nuestro viaje.
+
+Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio.  
+
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
+| Google Maps | https://maps.google.com.ar/ | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
+| Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión |
 
 
