@@ -80,5 +80,8 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 | Sitio | URL | Comentarios
 | ------ | ------ | :------: |
-
+| Booking | https://www.booking.com | - |
+| Expedia | https://www.expedia.com/ | - |
+| Hostelworld  | http://www.hostelworld.com/ | Buscador de Hostels |
+| AirBnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 
