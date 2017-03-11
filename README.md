@@ -106,6 +106,4 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Duolingo | https://www.duolingo.com/ | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
 | Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  Combina todos los medios de transporte para encontrar la mejor ruta. |
 | Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
-
-
-
+| Waygoapp  | http://www.waygoapp.com/| Servicio de traducción visual. Traduce automaticamente del Chino, Japones y Coreano al ingles. No requiere de conexión a internet, super útil para cuando se viaja por Asia.|
