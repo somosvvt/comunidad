@@ -55,3 +55,16 @@ alojamiento, por ejemplo reserva de hostal o carta de invitación; etc.)
 - Reserva del pasaje : ida y vuelta (con fechas de retorno flexible). En caso de no poder presentar el pasaje de vuelta, tendrá que comprometerse, en la carta de motivación, a comprar un pasaje de vuelta.
 
 **NOTA IMPORTANTE:** para el día del turno, no exigimos que el solicitante compre el pasaje y el seguro. Si el expediente esta completo, el servicio de visa le dará el acuerdo para que los compre y que los mande por email. A su elección, el solicitante puede también presentar, el día del turno, el pasaje y el seguro comprados para adelantar el proceso.
+
+### Dinamarca
+
+- You must be an Argentinian citizen primarily residing in Argentina at the time of application.
+- The main purpose of your stay must be holiday.
+- You must be between the ages of 18 and 30 at the time of application (both years included).
+- You may not be accompanied by family members.
+- You may not have already held a Danish residence permit under the working holiday programme.
+- You must have a valid passport.
+- You must have a return ticket or sufficient funds to buy one.
+- You must have sufficient funds to pay for food and lodging during the initial part of your stay in Denmark, equal to DKK - 15,000.
+
+**NOTA IMPORTANTE:** You must have health insurance which includes coverage for hospital stays, to the extent that this is not covered by the Danish National Health Insurance. You are allowed to study or take a training course for a maximum of six months without having to apply for a special permission. You are allowed to work for a maximum of nine months during a 12-month stay. You may not take permanent employment. 
