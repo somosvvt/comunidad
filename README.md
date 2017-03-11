@@ -117,7 +117,9 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | ------ | ------ | ------ |
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
 
-#### Planificación de viajes  
+#### Planificación de viajes 
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
 | Hopper | http://www.hopper.com/ | Hopper analiza millones de vuelos, predice cómo fluctuarán los precios y avisa del mejor momento para comprar los billetes o emprender el viaje. Gratis para iOS y Android.  |
 | Google Trips  | https://goo.gl/w4Jggt | Google Trips es una aplicación gratuita para iOS y Android que detecta automáticamente las reservas de vuelos, hoteles y eventos a partir de la información encontrada en la cuenta de Gmail y la actividad del usuario y las organiza en carpetas de viajes individuales y personalizadas con planes del día, mapas, rutas, lugares donde comer o información meteorológica, así como los datos de las reserva -vuelos, fechas, horarios, localizadores de hotel, tarjetas de embarque-, reunidos en un solo lugar. La información de cada viaje se puede descargar para utilizarla después sin conexión a Internet. |
 
@@ -134,6 +136,8 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Hitchwiki | http://hitchwiki.org | Aqui encontrarás toda esa información que jamás encontrarías en una guia de viajes: Cual es el mejor punto para hacer dedo, con quien hay que hablar para que te lleven, donde te podés quedar a dormir, etc. |
 
 #### Idiomas  
+| Sitio | URL | Comentarios
+| ------ | ------ | ------ |
 | Duolingo | https://www.duolingo.com | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
 | Waygoapp  | http://www.waygoapp.com | Servicio de traducción visual. Traduce automaticamente del Chino, Japones y Coreano al ingles. No requiere de conexión a internet, super útil para cuando se viaja por Asia.|
 
