@@ -23,7 +23,8 @@
     - [Estilo de vida](#Estilo-de-vida)
     - [Finanzas](#finanzas)
     - [Utilidades varias](#utilidades-varias)
-- [Sitios y consejos para trabajar remoto](#sitios-y-consejos-para-trabajar-remoto)
+- [Coworking](#coworking)
+    - [Coworking en Argentina](#coworking-en-argentina)
 
 ## Nuestra comunidad
 
@@ -92,7 +93,6 @@ Nazareno:
 >
 > 1. Si tengo fechas y destinos estrictos, empiezo desde el paso 2. Si no, busco en kiwi.com y matrix.itasoftware.com por la flexibilidad que tienen. Por ej, "Vuelos saliendo de 250km a la redonda de amsterdam con destino a cualquier lugar en Norteamerica, saliendo entre el 1 y 20 de marzo y quedándose por entre 10 y 15 noches.". Con eso elijo las que parecen ser mejores fechas. 
 > 2. Kayak y skyscanner para comparar precios. El booking lo hago por donde sea que indique mejor precio
-
 
 ***
 
@@ -183,4 +183,17 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
 | Air Help  | https://www.airhelp.com/es | Air Help es una aplicación que permite gestionar desde el móvil y en solo tres minutos las indemnizaciones por retrasos, cancelaciones y overbooking de los vuelos (entre 250 y 600 euros), sin hacer colas en los mostradores de las compañías. Cobran el 25% de la reclamación solo si esta prospera. Disponible para iOS o Android.|
+
+
+***
+
+## Coworking
+
+El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
+
+### Coworking en Argentina. 
+
+| Nombre | URL | Locación | Costo 
+| ------ | ------ | ------ | ------ |
+| La Maquinita Co. | https://www.lamaquinita.co/ | Palermo Soho, Vicente Lopez, Palermo Holliwood, Villa Crespo, Belgrano | $2.900 + IVA  
 
