@@ -98,6 +98,7 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
+| Google Trips  | https://goo.gl/w4Jggt | Planificar viajes y descubrir destinos interesantes. |
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
 | XE Currency Converter | http://www.xe.com/apps | Nos permite estar al tanto de forma fácil del cambio de moneda en cada país. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
@@ -105,6 +106,6 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Duolingo | https://www.duolingo.com/ | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
 | Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  Combina todos los medios de transporte para encontrar la mejor ruta. |
 | Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
-| Google Trips  | https://goo.gl/w4Jggt | LA nueva aplicación móvil de Google para planificar viajes y descubrir destinos interesantes. |
+
 
 
