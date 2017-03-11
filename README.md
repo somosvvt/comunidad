@@ -1,4 +1,4 @@
-# INDICE 
+# ÍNDICE 
 - [Nuestra comunidad](#nuestra-comunidad)
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
 - [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
@@ -80,11 +80,14 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
-| Booking | https://www.booking.com | - |
-| Expedia | https://www.expedia.com | - |
+| Booking | https://www.booking.com | Clásico |
+| Expedia | https://www.expedia.com | Clásico |
 | Hostelworld  | http://www.hostelworld.com | Buscador de hostels |
+| Opodo  | http://www.opodo.com/ | Buscador de hoteles |
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
+
+http://www.opodo.com/
 
 
