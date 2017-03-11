@@ -8,13 +8,13 @@
   - [Al mejor precio](#sitios-para-encontrar-alojamientos)
   - [Gratuitos](#sitios-para-encontrar-alojamientos)
 - [Aplicaciones útiles para nuestro viaje](#aplicaciones-útiles-para-nuestro-viaje)
-  - [Mapas](#mapas)
+  - [Mapas y navegación](#mapas-y-navegación)
   - [Planificación de viajes](#planificación-de-viajes)
-  - [Wikis informativas y específicas](#wikis-informativas-y-específicas)
-  - [Transportes](#transportes)
-  - [Alimentación](#alimentación)
-  - [Economía personal](#economía-personal)
-  - [Varios](#varios)
+  - [Wikis y guías informativas](#wikis-y-guías-informativas)
+  - [Transportes ](#transportes)
+  - [Estilo de vida](#Estilo-de-vida)
+  - [Finanzas](#finanzas)
+  - [Utilidades varias ](#utilidades-varias)
 - [Sitios y consejos para trabajar remoto](#sitios-y-consejos-para-trabajar-remoto)
 
 ## Nuestra comunidad
@@ -32,7 +32,6 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 |  Instagram | https://instagram.com/somosvvt | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  Telegram | https://t.me/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 |  Twitter  | https://twitter.com/somosvvt  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
-
 
 **Agradecemos a todos los colegas de VVT que colaboraron con ideas y sugerencias para esta guía:** Paola Sapoznik Derman, Gonzalo Naveira, Anibal Martínez, Sergio Urin, Matias Gagliardi Natalia Pizzi, Verónica Toller, Nazareno Lorenzo, Aldano Pelusso, Hernán Diego, Diego Maximiliano, Juan Pablo Beldomenico, Cristian Giménez, Rodrigo Gemin, Lucas Baldoni, Roxy Bo y Gus Aragón.
 
@@ -115,15 +114,13 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Mindmyhouse | http://www.mindmyhouse.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa.  | <sub>20 USD x año</sub> |
 | Housecarers | https://www.housecarers.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | <sub>50 USD x año</sub> |
 
-
-
 ***
 
 ## Aplicaciones útiles para nuestro viaje
 
 ### Listado de las aplicaciones utilizadas y recomendadas por la comunidad.  
 
-#### Mapas 
+#### Mapas y navegación
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
@@ -134,12 +131,13 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Hopper | http://www.hopper.com/ | Hopper analiza millones de vuelos, predice cómo fluctuarán los precios y avisa del mejor momento para comprar los billetes o emprender el viaje. Gratis para iOS y Android.  |
 | Google Trips  | https://goo.gl/w4Jggt | Google Trips es una aplicación gratuita para iOS y Android que detecta automáticamente las reservas de vuelos, hoteles y eventos a partir de la información encontrada en la cuenta de Gmail y la actividad del usuario y las organiza en carpetas de viajes individuales y personalizadas con planes del día, mapas, rutas, lugares donde comer o información meteorológica, así como los datos de las reserva -vuelos, fechas, horarios, localizadores de hotel, tarjetas de embarque-, reunidos en un solo lugar. La información de cada viaje se puede descargar para utilizarla después sin conexión a Internet. |
 
-#### Wikis informativas y específicas  
+#### Wikis y guías informativas
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
 | Wikitravel | http://wikitravel.org | Guía de viajes global, gratis, completa, actualizada, y confiable que recientemente ha superado en sus diversas versiones las 10.000 guías y artículos, escritos y editados por Wikiviajantes procedentes de todos los rincones del globo.  |
 | Hitchwiki | http://hitchwiki.org | Aqui encontrarás toda esa información que jamás encontrarías en una guia de viajes: Cual es el mejor punto para hacer dedo, con quien hay que hablar para que te lleven, donde te podés quedar a dormir, etc. |
+| CeliCity  | http://celicity.com/ |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
 
 #### Idiomas  
 | Sitio | URL | Comentarios
@@ -155,12 +153,12 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
 | Uber | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 
-#### Alimentación 
+#### Estilo de vida
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
-| CeliCity  | http://celicity.com/ |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
 
-#### Economía personal   
+
+#### Finanzas 
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
@@ -168,7 +166,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | XE Currency | http://www.xe.com/apps | Nos permite estar al tanto de forma fácil del cambio de moneda en cada país. Muy útil para evitar dolores de cabeza cuando se viaja por varios paises.|
 
 
-#### Varios 
+#### Utilidades varias 
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
