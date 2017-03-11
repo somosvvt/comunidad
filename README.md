@@ -89,6 +89,8 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente |
 
+https://www.rome2rio.com
+
 ***
 
 ## Aplicaciones útiles para nuestro viaje.
@@ -104,5 +106,6 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | UBER | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 | Duolingo | https://www.duolingo.com/ | Tenes un viajes de negocios? Te vas a vivir al exterior? Duolingo te ayuda a practicar y mejorar el idioma. Los resultados no son mágicos, requiere de practica y dedicación. |
 | Citymapper | https://goo.gl/45vnmu | Citymapper es la mejor forma de moverse por Europa usando el transporte público.  Combina todos los medios de transporte para encontrar la mejor ruta. |
+| Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
 
 
