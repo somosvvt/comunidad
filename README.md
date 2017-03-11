@@ -3,6 +3,8 @@
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
 - [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
 - [Sitios para encontrar alojamientos](#sitios-para-encontrar-alojamientos)
+  - [Al mejor precio](#sitios-para-encontrar-alojamientos)
+  - [Gratuitos](#sitios-para-encontrar-alojamientos)
 - [Aplicaciones útiles para nuestro viaje](#aplicaciones-útiles-para-nuestro-viaje)
   - [Mapas](#mapas)
   - [Planificación de viajes](#planificación-de-viajes)
