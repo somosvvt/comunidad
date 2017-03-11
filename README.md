@@ -96,10 +96,13 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 
 ## Aplicaciones útiles para nuestro viaje.
 
+
+
 Listado de las aplicaciones utilizadas y recomendadas por la comunidad.   
 
 | Sitio | URL | Comentarios
 | ------ | ------ | ------ |
+| Wikitravel | http://wikitravel.org | Guía de viajes global, gratis, completa, actualizada, y confiable que recientemente ha superado en sus diversas versiones las 10.000 guías y artículos, escritos y editados por Wikiviajantes procedentes de todos los rincones del globo.  |
 | Google Maps | https://maps.google.com.ar | La funcion descargar áreas y navegar sin conexión es super útil para cualquier viajero. |
 | Google Trips  | https://goo.gl/w4Jggt | Planificar viajes y descubrir destinos interesantes. |
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
