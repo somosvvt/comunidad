@@ -7,6 +7,7 @@
       - <sub>[Alemania](#visas-de-trabajo-y-vacaciones) | [Australia](#visas-de-trabajo-y-vacaciones) | [Dinamarca](#visas-de-trabajo-y-vacaciones) | [España](#visas-de-trabajo-y-vacaciones) | [Francia](#visas-de-trabajo-y-vacaciones) | [Irlanda](#visas-de-trabajo-y-vacaciones) | [Noruega](#visas-de-trabajo-y-vacaciones) | [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)</sub>
     - Chile
       - <sub>Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda | República Checa.</sub>
+    - México   
 - [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Error Fares](#error-fares) 
@@ -18,7 +19,7 @@
     - [Coworking](#coworking)
        - [Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
-       - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas)     
+       - [Scripts para automatizar tareas](#herramientas-para-desarrolladores)     
 - [Aplicaciones para viajeros](#aplicaciones-para-viajeros)
     - [Mapas y navegación](#mapas-y-navegación)
     - [Planificación de viajes](#planificación-de-viajes)
@@ -220,8 +221,6 @@ El coworking es una forma de trabajo que permite a profesionales independientes 
 
 ### Herramientas para desarrolladores
 Scripts, códigos y herramientas para nómades digitales que gustan de automatizar tareas y explorar nuevos conocimientos.  
-
-#### Scripts para automatizar tareas 
 
 | Nombre          |   GIT                                      | Descripcion                              |
 | --------------- | ------------------------------------------ | ---------------------------------------- |
