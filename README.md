@@ -24,8 +24,9 @@
     - [Finanzas](#finanzas)
     - [Utilidades varias](#utilidades-varias)
 - [Nómades Digitales](#nómades-digitales)
+    - [Error Fares](#error-fares)
     - [Coworking](#coworking)
-       - [Coworking en Argentina](#coworking-en-argentina)
+       - [Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
        - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas) 
 
@@ -194,6 +195,15 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
 
+### Error Fares 
+
+Una tarifa error de un vuelo o de un hotel es un pasaje de avión o una reserva de habitación a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+
+**¿Por qué suceden las tarifas por error?**
+
+Hay varias razones, entre las más importantes:
+– Problema técnico en el sitio web de la compañía aérea o agencia online
+– Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
 
 ### Coworking 
 
