@@ -79,7 +79,7 @@ Listado de países con Work & Holiday para Chilenos.
 | Hungría | | | | |
 | Irlanda | | | | |
 | Nueva Zelanda | | | 1000 | |
-| República Checa | | | | |
+| República Checa | https://goo.gl/VsU9wr | 18 a 30 años | 200 | 3200 USD |
 
 ***
 
