@@ -5,6 +5,8 @@
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
     - Para Argentina 
       - [Alemania](#visas-de-trabajo-y-vacaciones) | [Australia](#visas-de-trabajo-y-vacaciones) | [Dinamarca](#visas-de-trabajo-y-vacaciones) | [España](#visas-de-trabajo-y-vacaciones) | [Francia](#visas-de-trabajo-y-vacaciones) | [Irlanda](#visas-de-trabajo-y-vacaciones) | [Noruega](#visas-de-trabajo-y-vacaciones) | [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)
+    - Para Chile 
+      - Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda |República Checa.
 - [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Error Fares](#error-fares) 
@@ -61,6 +63,11 @@ Listado de países con Work & Holiday para Argentinos.
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4.200 NZD
+
+Listado de países con Work & Holiday para Chilenos. 
+
+| País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
+| ------ | ------ | :------------------: |:------: | :------ |
 
 ***
 
