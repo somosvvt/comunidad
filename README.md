@@ -11,11 +11,12 @@
     - [Irlanda](#visas-de-trabajo-y-vacaciones)
     - [Noruega](#visas-de-trabajo-y-vacaciones)
     - [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)
-- [Sitios para encontrar vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
-- [Sitios para encontrar alojamientos](#sitios-para-encontrar-alojamientos)
+- [Vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
+- [Alojamientos](#sitios-para-encontrar-alojamientos)
     - [Al mejor precio](#sitios-para-encontrar-alojamientos)
     - [Gratuitos](#sitios-para-encontrar-alojamientos)
-- [Aplicaciones útiles para nuestro viaje](#aplicaciones-útiles-para-nuestro-viaje)
+- [Error Fares](#error-fares)    
+- [Aplicaciones para viajeros](#aplicaciones-útiles-para-nuestro-viaje)
     - [Mapas y navegación](#mapas-y-navegación)
     - [Planificación de viajes](#planificación-de-viajes)
     - [Wikis y guías informativas](#wikis-y-guías-informativas)
@@ -24,7 +25,6 @@
     - [Finanzas](#finanzas)
     - [Utilidades varias](#utilidades-varias)
 - [Nómades Digitales](#nómades-digitales)
-    - [Error Fares](#error-fares)
     - [Coworking](#coworking)
        - [Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
@@ -128,6 +128,32 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Mindmyhouse | http://www.mindmyhouse.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa.  | <sub>20 USD x año</sub> |
 | Housecarers | https://www.housecarers.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | <sub>50 USD x año</sub> |
 
+
+***
+
+## Error Fares 
+
+Un error fares (tarifa de error) de un vuelo o de un hotel es un pasaje de avión o una reserva de habitación a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+
+**¿Por qué suceden las tarifas por error?**
+  - Problema técnico en el sitio web de la compañía aérea o agencia online
+  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
+  
+**¿Cuánto duran?**
+
+Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos la tarifa error por la noche o durante el fin de semana, es más fácil que dure. 
+
+**Pueden cancelar el vuelo o la reserva del hotel?**
+
+La compañía aérea puede cancelar el vuelo o la agencia la reserva de hotel, por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados.
+En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
+
+**Consejos para conseguirlas**
+ - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
+ - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
+ - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
+
+
 ***
 
 ## Aplicaciones útiles para nuestro viaje
@@ -188,32 +214,12 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
 | Air Help  | https://www.airhelp.com/es | Air Help es una aplicación que permite gestionar desde el móvil y en solo tres minutos las indemnizaciones por retrasos, cancelaciones y overbooking de los vuelos (entre 250 y 600 euros), sin hacer colas en los mostradores de las compañías. Cobran el 25% de la reclamación solo si esta prospera. Disponible para iOS o Android.|
 
-
 ***
+
 
 ## Nómades Digitales
 
 Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
-
-### Error Fares 
-
-Un error fares (tarifa de error) de un vuelo o de un hotel es un pasaje de avión o una reserva de habitación a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
-
-**¿Por qué suceden las tarifas por error?**
-  - Problema técnico en el sitio web de la compañía aérea o agencia online
-  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
-  
-**¿Cuánto duran?**
-Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos la tarifa error por la noche o durante el fin de semana, es más fácil que dure. 
-
-**Pueden cancelar el vuelo o la reserva del hotel?**
-La compañía aérea puede cancelar el vuelo o la agencia la reserva de hotel, por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados.
-En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
-
-**Consejos para conseguirlas**
- - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
- - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
- - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
 
 ### Coworking 
 
