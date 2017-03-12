@@ -192,7 +192,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 ## Nómades Digitales
 
-Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota (desde casa, cafeterías o bibliotecas públicas) en lugar de hacerlo en un entorno de trabajo estable.
+Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
 
 
 ### Coworking 
