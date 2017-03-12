@@ -11,11 +11,17 @@
     - [Irlanda](#visas-de-trabajo-y-vacaciones)
     - [Noruega](#visas-de-trabajo-y-vacaciones)
     - [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)
-- [Vuelos al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
+- [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
+    - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
+    - [Error Fares](#error-fares) 
 - [Alojamientos](#sitios-para-encontrar-alojamientos)
     - [Al mejor precio](#sitios-para-encontrar-alojamientos)
-    - [Gratuitos](#sitios-para-encontrar-alojamientos)
-- [Error Fares](#error-fares)    
+    - [Gratuitos](#sitios-para-encontrar-alojamientos) 
+- [Nómades Digitales](#nómades-digitales)
+    - [Coworking](#coworking)
+       - [Argentina](#coworking-en-argentina)
+    - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
+       - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas)     
 - [Aplicaciones para viajeros](#aplicaciones-útiles-para-nuestro-viaje)
     - [Mapas y navegación](#mapas-y-navegación)
     - [Planificación de viajes](#planificación-de-viajes)
@@ -24,11 +30,7 @@
     - [Estilo de vida](#Estilo-de-vida)
     - [Finanzas](#finanzas)
     - [Utilidades varias](#utilidades-varias)
-- [Nómades Digitales](#nómades-digitales)
-    - [Coworking](#coworking)
-       - [Argentina](#coworking-en-argentina)
-    - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
-       - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas) 
+
 
 ## Nuestra comunidad
 
@@ -100,6 +102,30 @@ Nazareno:
 
 ***
 
+## Error Fares 
+
+Un error fares (tarifa de error) de un vuelo o de un hotel es un pasaje de avión o una reserva de habitación a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+
+**¿Por qué suceden las tarifas por error?**
+  - Problema técnico en el sitio web de la compañía aérea o agencia online
+  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
+  
+**¿Cuánto duran?**
+
+Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos la tarifa error por la noche o durante el fin de semana, es más fácil que dure. 
+
+**Pueden cancelar el vuelo o la reserva del hotel?**
+
+La compañía aérea puede cancelar el vuelo o la agencia la reserva de hotel, por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados.
+En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
+
+**Consejos para conseguirlas**
+ - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
+ - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
+ - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
+
+***
+
 ## Sitios para encontrar alojamientos
 
 Listado de los sitios utilizado por la comunidad para buscar alojamientos al mejor precio.
@@ -131,27 +157,39 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 ***
 
-## Error Fares 
 
-Un error fares (tarifa de error) de un vuelo o de un hotel es un pasaje de avión o una reserva de habitación a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+## Nómades Digitales
 
-**¿Por qué suceden las tarifas por error?**
-  - Problema técnico en el sitio web de la compañía aérea o agencia online
-  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
-  
-**¿Cuánto duran?**
+Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
 
-Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos la tarifa error por la noche o durante el fin de semana, es más fácil que dure. 
+### Coworking 
 
-**Pueden cancelar el vuelo o la reserva del hotel?**
+El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
 
-La compañía aérea puede cancelar el vuelo o la agencia la reserva de hotel, por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados.
-En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
+#### Coworking en Argentina
 
-**Consejos para conseguirlas**
- - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
- - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
- - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
+| Nombre |   URL  | Sucursales    | Comentarios | Costo mensual |
+| ------ | ------ | :-----------: | ----------- | ------ |
+| La Maquinita Co. | https://www.lamaquinita.co | 7 | La red de espacios de Coworking más grande de la Argentina | **$2900 + IVA.** Tené tu puesto fijo en un ambiente colaborativo y encontrá la sinergia que tu emprendimiento necesita. |  
+| Urban Station | https://goo.gl/WCixWH | 4 | Urban Station es la primera red a nivel mundial para los trabajadores moviles. | **$2900 +IVA.** Adquiriendo el pase mensual tenés el beneficio de trabajar sin preocuparte por las horas que consumís. Ademas de 4 horas gratis de la sala de reunión para 8 personas cada mes. |
+| StartupM3 | http://startupm3.com | 1 | En StartUpM3 creemos en el potencial de la comunidad para generar transformaciones que potencian ideas de impacto.| **$3700 + IVA.** Talleres y Actividades (org. p/SUM3) 30% dto, Alquiler de Sala 30% dto, Oficina virtual (recibimos tu correspondencia), OKEI Deli & Café 15% dto, Locker free, Impresora (20 copias free),Tu logo en nuestra web y redes |
+| Belephant | http://belephant.co | 1 | En Belephant no alquilamos puestos de trabajo por hora o por día. | **$2300 + IVA.** OPEN DESK. Abierto 24/7 los 365 días del año.  |
+| Seis grados | http://seisgrados.com.ar | 1 | - | **$3500 + IVA.** Personaliza tu propio escritorio al cual le podrás adicionar teléfono. Acceso a todas las instalaciones comunes,  incluye paquete de hs mensuales de sala de reuniones.|
+| WeWork | https://www.wework.com | 1 | Cuenta con un edificio entero de 25 pisos destinado a espacio de coworking único en Buenos Aires. | **$2800 + IVA.** Cualquier escritorio disponible en el área común dentro de una única de nuestras instalaciones. Solo traé tu computadora personal, elegí un asiento libre y a trabajar. |
+| 1352 Espacios | http://www.1352espacios.com.ar | 1 | Somos un espacio de trabajo ubicado en el centro de la ciudad de Rosario. | **$1800 + IVA.** Puesto flexible, Lunes a Viernes, Acceso de 9 a 20 hs, Infusiones libres, Conexión a internet, Uso de espacios comunes: cocina, patio, recepción. 4 hs mensual en Sala de Reuniones |
+| Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
+
+
+### Herramientas para desarrolladores
+
+#### Scripts para automatizar tareas 
+
+| Nombre          |   GIT                                      | Descripcion                              |
+| --------------- | ------------------------------------------ | ---------------------------------------- |
+| Expedia Crawler | https://github.com/Shadi-A/ExpediaCrawler  | Simple script to get best offers from expedia given codes for departure and destination cities, departure and return dates, and other dates on the future based on these dates |
+| Flight Search   | https://github.com/kjam/python_flight_search  | Simple and extendable series of Python scripts for searching flight options. +Info: http://kjamistan.com/python-flight-search |
+| Tripadvisor Scraper  | https://goo.gl/oxnq8n  | Python Script to scrape Tripadvisor.com for Hotels in a locality. Code Written as part of https://www.scrapehero.com/how-to-scrape-tripadvisor/ |
+| Flight Scrappper  |https://github.com/bertolo1988/flight-scrappper  | Web scraper made with nodejs and selenium-webdriver that gathers flight data and stores it in a mongodb database. |
 
 
 ***
@@ -194,9 +232,6 @@ En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vue
 | Uber | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 
 #### Estilo de vida
-| Sitio | URL | Comentarios
-| ------ | ------ | ------ |
-
 
 #### Finanzas 
 
@@ -214,38 +249,3 @@ En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vue
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
 | Air Help  | https://www.airhelp.com/es | Air Help es una aplicación que permite gestionar desde el móvil y en solo tres minutos las indemnizaciones por retrasos, cancelaciones y overbooking de los vuelos (entre 250 y 600 euros), sin hacer colas en los mostradores de las compañías. Cobran el 25% de la reclamación solo si esta prospera. Disponible para iOS o Android.|
 
-***
-
-
-## Nómades Digitales
-
-Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
-
-### Coworking 
-
-El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
-
-#### Coworking en Argentina
-
-| Nombre |   URL  | Sucursales    | Comentarios | Costo mensual |
-| ------ | ------ | :-----------: | ----------- | ------ |
-| La Maquinita Co. | https://www.lamaquinita.co | 7 | La red de espacios de Coworking más grande de la Argentina | **$2900 + IVA.** Tené tu puesto fijo en un ambiente colaborativo y encontrá la sinergia que tu emprendimiento necesita. |  
-| Urban Station | https://goo.gl/WCixWH | 4 | Urban Station es la primera red a nivel mundial para los trabajadores moviles. | **$2900 +IVA.** Adquiriendo el pase mensual tenés el beneficio de trabajar sin preocuparte por las horas que consumís. Ademas de 4 horas gratis de la sala de reunión para 8 personas cada mes. |
-| StartupM3 | http://startupm3.com | 1 | En StartUpM3 creemos en el potencial de la comunidad para generar transformaciones que potencian ideas de impacto.| **$3700 + IVA.** Talleres y Actividades (org. p/SUM3) 30% dto, Alquiler de Sala 30% dto, Oficina virtual (recibimos tu correspondencia), OKEI Deli & Café 15% dto, Locker free, Impresora (20 copias free),Tu logo en nuestra web y redes |
-| Belephant | http://belephant.co | 1 | En Belephant no alquilamos puestos de trabajo por hora o por día. | **$2300 + IVA.** OPEN DESK. Abierto 24/7 los 365 días del año.  |
-| Seis grados | http://seisgrados.com.ar | 1 | - | **$3500 + IVA.** Personaliza tu propio escritorio al cual le podrás adicionar teléfono. Acceso a todas las instalaciones comunes,  incluye paquete de hs mensuales de sala de reuniones.|
-| WeWork | https://www.wework.com | 1 | Cuenta con un edificio entero de 25 pisos destinado a espacio de coworking único en Buenos Aires. | **$2800 + IVA.** Cualquier escritorio disponible en el área común dentro de una única de nuestras instalaciones. Solo traé tu computadora personal, elegí un asiento libre y a trabajar. |
-| 1352 Espacios | http://www.1352espacios.com.ar | 1 | Somos un espacio de trabajo ubicado en el centro de la ciudad de Rosario. | **$1800 + IVA.** Puesto flexible, Lunes a Viernes, Acceso de 9 a 20 hs, Infusiones libres, Conexión a internet, Uso de espacios comunes: cocina, patio, recepción. 4 hs mensual en Sala de Reuniones |
-| Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
-
-
-### Herramientas para desarrolladores
-
-#### Scripts para automatizar tareas 
-
-| Nombre          |   GIT                                      | Descripcion                              |
-| --------------- | ------------------------------------------ | ---------------------------------------- |
-| Expedia Crawler | https://github.com/Shadi-A/ExpediaCrawler  | Simple script to get best offers from expedia given codes for departure and destination cities, departure and return dates, and other dates on the future based on these dates |
-| Flight Search   | https://github.com/kjam/python_flight_search  | Simple and extendable series of Python scripts for searching flight options. +Info: http://kjamistan.com/python-flight-search |
-| Tripadvisor Scraper  | https://goo.gl/oxnq8n  | Python Script to scrape Tripadvisor.com for Hotels in a locality. Code Written as part of https://www.scrapehero.com/how-to-scrape-tripadvisor/ |
-| Flight Scrappper  |https://github.com/bertolo1988/flight-scrappper  | Web scraper made with nodejs and selenium-webdriver that gathers flight data and stores it in a mongodb database. |
