@@ -61,8 +61,6 @@ Listado de países con Work & Holiday para Argentinos.
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4.200 NZD
 
-
-
 ***
 
 ## Sitios para encontrar vuelos al mejor precio 
@@ -98,7 +96,7 @@ Nazareno:
 
 ## Error Fares 
 
-Un error fares (tarifa de error) de un vuelo es un pasaje de avión a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+Un error fares (tarifa de error) es un pasaje de avión a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
 
 **¿Por qué suceden las tarifas por error?**
   - Problema técnico en el sitio web de la compañía aérea o agencia online.
@@ -108,7 +106,7 @@ Un error fares (tarifa de error) de un vuelo es un pasaje de avión a un precio 
 
 Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos la tarifa error por la noche o durante el fin de semana, es más fácil que dure. 
 
-**Pueden cancelar el vuelo o la reserva del hotel?**
+**¿Pueden cancelar el vuelo o la reserva del hotel?**
 
 La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados. En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
 
@@ -116,6 +114,16 @@ La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esp
  - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
  - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
  - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
+ 
+** Cuentas de Twitter donde encontrar Error Fares**
+ 
+| Usuario | Url  | Comentarios
+| ------ | ------ | ------ |
+| SecretFlying | https://twitter.com/SecretFlying | |
+| TheFlightDeal | https://twitter.com/TheFlightDeal | |
+| Fly4freecom | https://twitter.com/Fly4freecom | |
+| AirFareWatchDog | https://twitter.com/airfarewatchdog | |
+
 
 ***
 
