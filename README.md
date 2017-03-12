@@ -201,7 +201,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | Belephant | http://belephant.co | 1 | En Belephant no alquilamos puestos de trabajo por hora o por día. | **$2300 + IVA.** OPEN DESK. Abierto 24/7 los 365 días del año.  |
 | Seis grados | http://seisgrados.com.ar | 1 | - | **$3500 + IVA.** Personaliza tu propio escritorio al cual le podrás adicionar teléfono. Acceso a todas las instalaciones comunes,  incluye paquete de hs mensuales de sala de reuniones.|
 | WeWork | https://www.wework.com | 1 | Cuenta con un edificio entero de 25 pisos destinado a espacio de coworking único en Buenos Aires. | **$2800 + IVA.** Cualquier escritorio disponible en el área común dentro de una única de nuestras instalaciones. Solo traé tu computadora personal, elegí un asiento libre y a trabajar. |
-| 1352 Espacios | http://www.1352espacios.com.ar | 1 | Somos un espacio de trabajo ubicado en el centro de la ciudad de Rosario. | **$1800 + IVA.** $1800 + IVA. Puesto flexible, Lunes a Viernes, Acceso de 9 a 20 hs, Infusiones libres, Conexión a internet, Uso de espacios comunes: cocina, patio, recepción. 4 hs mensual en Sala de Reuniones |
+| 1352 Espacios | http://www.1352espacios.com.ar | 1 | Somos un espacio de trabajo ubicado en el centro de la ciudad de Rosario. | **$1800 + IVA.** Puesto flexible, Lunes a Viernes, Acceso de 9 a 20 hs, Infusiones libres, Conexión a internet, Uso de espacios comunes: cocina, patio, recepción. 4 hs mensual en Sala de Reuniones |
 | Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.**. Todos los días de lunes a viernes, 9hs diarias |
 
 
