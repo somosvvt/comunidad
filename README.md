@@ -24,7 +24,8 @@
     - [Finanzas](#finanzas)
     - [Utilidades varias](#utilidades-varias)
 - [Nómades Digitales](#nómades-digitales)
-    - [Coworking en Argentina](#coworking-en-argentina)
+    - [Coworking](#coworking)
+       - [Coworking en Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
        - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas) 
 
@@ -194,9 +195,11 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota (desde casa, cafeterías o bibliotecas públicas) en lugar de hacerlo en un entorno de trabajo estable.
 
 
-### Coworking en Argentina. 
+### Coworking 
 
 El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
+
+#### Coworking en Argentina
 
 | Nombre |   URL  | Sucursales    | Comentarios | Costo mensual |
 | ------ | ------ | :-----------: | ----------- | ------ |
