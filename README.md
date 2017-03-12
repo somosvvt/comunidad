@@ -42,7 +42,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 |  Telegram | https://t.me/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 |  Twitter  | https://twitter.com/somosvvt  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 
-**Agradecemos a todos los colegas de VVT que colaboraron con ideas y sugerencias para esta guía:** Paola Sapoznik Derman, Gonzalo Naveira, Anibal Martínez, Sergio Urin, Matias Gagliardi Natalia Pizzi, Verónica Toller, Nazareno Lorenzo, Aldano Pelusso, Hernán Diego, Diego Maximiliano, Juan Pablo Beldomenico, Cristian Giménez, Rodrigo Gemin, Lucas Baldoni, Roxy Bo y Gus Aragón.
+**Agradecemos a todos los colegas de VVT que colaboraron con ideas y sugerencias para esta guía:** Paola Sapoznik Derman, Gonzalo Naveira, Anibal Martínez, Sergio Urin, Matias Gagliardi, Natalia Pizzi, Verónica Toller, Nazareno Lorenzo, Aldano Pelusso, Hernán Diego, Diego Maximiliano, Juan Pablo Beldomenico, Cristian Giménez, Rodrigo Gemin, Lucas Baldoni, Facundo Quiroga, Luis Miguel Vittori, Roxy Bo y Gus Aragón.
 
 ***
 
@@ -179,6 +179,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | WeWork | https://www.wework.com | 1 | Cuenta con un edificio entero de 25 pisos destinado a espacio de coworking único en Buenos Aires. | **$2800 + IVA.** Cualquier escritorio disponible en el área común dentro de una única de nuestras instalaciones. Solo traé tu computadora personal, elegí un asiento libre y a trabajar. |
 | 1352 Espacios | http://www.1352espacios.com.ar | 1 | Somos un espacio de trabajo ubicado en el centro de la ciudad de Rosario. | **$1800 + IVA.** Puesto flexible, Lunes a Viernes, Acceso de 9 a 20 hs, Infusiones libres, Conexión a internet, Uso de espacios comunes: cocina, patio, recepción. 4 hs mensual en Sala de Reuniones |
 | Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
+| REQ | http://www.reqcoworking.com | 1 | REQ Co-Working, espacio de oficinas pensado para emprendedores, freelancers y PYMES. | Estamos recolectando la información |
 
 
 ### Herramientas para desarrolladores
