@@ -119,11 +119,11 @@ La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esp
  
 | Usuario | Url  | Comentarios
 | ------ | ------ | ------ |
-| @SecretFlying | https://twitter.com/SecretFlying | -  |
-| @TheFlightDeal | https://twitter.com/TheFlightDeal | - |
-| @Fly4freecom | https://twitter.com/Fly4freecom | - |
-| @AirFareWatchDog | https://twitter.com/airfarewatchdog | - |
-
+| @SecretFlying | https://twitter.com/SecretFlying | Finding you cheap flight deals around the world.  |
+| @TheFlightDeal | https://twitter.com/TheFlightDeal | Curated Daily Travel Deals from NYC/BOS/PHL/DC/MIA/DFW/PHX/LAX/ SFO/PDX/SEA/ORD. |
+| @Fly4freecom | https://twitter.com/Fly4freecom | Cheap travelling is no secret with Fly4free |
+| @AirFareWatchDog | https://twitter.com/airfarewatchdog | The only low airfare alert site that covers all airlines |
+| @PromosaereasAR | https://twitter.com/PromosaereasAR | Buscamos y divulgamos promociones de pasajes aéreos. |
 
 ***
 
