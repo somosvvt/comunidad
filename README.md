@@ -12,6 +12,7 @@
     - [Al mejor precio](#sitios-para-encontrar-alojamientos)
     - [Gratuitos](#sitios-para-encontrar-alojamientos) 
 - [Nómades Digitales](#nómades-digitales)
+    - [Trabajo remoto](#trabajo-remoto)
     - [Coworking](#coworking)
        - [Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
@@ -158,11 +159,19 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 ***
 
-
 ## Nómades Digitales
 
 Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
 
+### Trabajo remoto 
+
+Listado de los mejores sitios para buscar trabajos remotos. 
+
+| Nombre |   URL  | Comentarios |
+| ------ | ------ | ----------- | 
+| Nomad Jobs | http://nomadjobs.io | |
+| We Work Remotely | https://weworkremotely.com | |
+| Stackoverflow | http://stackoverflow.com/jobs/remote-developer-jobs | |
 
 ### Coworking 
 
@@ -220,6 +229,7 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Wikitravel | http://wikitravel.org | Guía de viajes global, gratis, completa, actualizada, y confiable que recientemente ha superado en sus diversas versiones las 10.000 guías y artículos, escritos y editados por Wikiviajantes procedentes de todos los rincones del globo.  |
 | Hitchwiki | http://hitchwiki.org | Aqui encontrarás toda esa información que jamás encontrarías en una guia de viajes: Cual es el mejor punto para hacer dedo, con quien hay que hablar para que te lleven, donde te podés quedar a dormir, etc. |
 | CeliCity  | http://celicity.com/ |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
+| NomadList  | https://nomadlist.com/ | La guía por excelencia de los Nómades Digitales |
 
 #### Idiomas  
 | Sitio | URL | Comentarios
