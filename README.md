@@ -98,10 +98,10 @@ Nazareno:
 
 ## Error Fares 
 
-Un error fares (tarifa de error) de un vuelo o de un hotel es un pasaje de avión o una reserva de habitación a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+Un error fares (tarifa de error) de un vuelo es un pasaje de avión a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
 
 **¿Por qué suceden las tarifas por error?**
-  - Problema técnico en el sitio web de la compañía aérea o agencia online
+  - Problema técnico en el sitio web de la compañía aérea o agencia online.
   - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
   
 **¿Cuánto duran?**
@@ -110,8 +110,7 @@ Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depen
 
 **Pueden cancelar el vuelo o la reserva del hotel?**
 
-La compañía aérea puede cancelar el vuelo o la agencia la reserva de hotel, por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados.
-En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
+La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados. En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
 
 **Consejos para conseguirlas**
  - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
