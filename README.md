@@ -25,6 +25,7 @@
     - [Utilidades varias](#utilidades-varias)
 - [Nómades Digitales](#nómades-digitales)
     - [Coworking en Argentina](#coworking-en-argentina)
+    - [Scripts y utilidades varias para desarrolladores](#scripts-y-utilidades-varias-para-desarrolladores)
 
 ## Nuestra comunidad
 
@@ -189,6 +190,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 ## Nómades Digitales
 
+Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota (desde casa, cafeterías o bibliotecas públicas) en lugar de hacerlo en un entorno de trabajo estable.
 
 
 ### Coworking en Argentina. 
@@ -207,4 +209,8 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
 
 
+### Scripts y utilidades varias para desarrolladores
 
+| Nombre          |   URL GIT                                  | Descripcion                              |
+| --------------- | ------------------------------------------ | ---------------------------------------- |
+| Expedia Crawler | https://github.com/Shadi-A/ExpediaCrawler  | Simple script to get best offers from expedia given codes for departure and destination cities, departure and return dates, and other dates on the future based on these dates |
