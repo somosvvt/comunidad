@@ -78,7 +78,7 @@ Listado de países con Work & Holiday para Chilenos.
 | Francia | | 18 a 30 años | 200 |  2500 € |
 | Hungría | | | | |
 | Irlanda | | | | |
-| Nueva Zelanda | | | 1000 | |
+| Nueva Zelanda | https://goo.gl/dtWgvO |  18 a 35 años | 940 | 4200 NZD |
 | República Checa | https://goo.gl/VsU9wr | 18 a 30 años | 200 | 3200 USD |
 | Suecia | https://goo.gl/jDLSZj | 18 a 30 años | Ilimitadas | 15000 SEK |
 
