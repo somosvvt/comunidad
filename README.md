@@ -117,15 +117,15 @@ Nazareno:
 
 ## Error Fares 
 
-Un **error fares** es un pasaje de avión a un precio tremendamente más bajo de su valor. 
+Un **error fares** es un pasaje de avión a un precio a un fracción de su valor normal. 
 
 **¿Por qué suceden los error fares?**
   - Problema técnico en el sitio web de la compañía aérea o agencia online.
-  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar pasajes de clase Business a asientos de clase Turista.
+  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en el precio; errores en la conversión de precios, errores en cupones promocionales; asignar pasajes de clase Business a asientos de clase Turista.
   
 **¿Cuánto duran?**
 
-Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos un error fare por la noche o durante el fin de semana, es más fácil que dure. 
+Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen el precio. Si encontramos un error fare por la noche o durante el fin de semana, es más fácil que dure. 
 
 **¿Pueden cancelar el vuelo?**
 
