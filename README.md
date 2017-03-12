@@ -70,8 +70,8 @@ Listado de países con Work & Holiday para Chilenos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania | | | 1500 | |
-| Australia | | | | |
+| Alemania | | |  | |
+| Australia | | | 1500 | |
 | Canadá | | | 750 | |
 | Corea del Sur | | | 100 | |
 | Dinamarca | | | | |
