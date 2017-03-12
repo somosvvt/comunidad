@@ -70,12 +70,12 @@ Listado de países con Work & Holiday para Chilenos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania | | |  | |
-| Australia | | | 1500 | |
+| Alemania  | | 18 a 30 años | Ilimitadas | 1200 €  |
+| Australia | | 18 a 30 años | 1500 | 5000 AUD |
 | Canadá | | | 750 | |
-| Corea del Sur | | | 100 | |
-| Dinamarca | | | | |
-| Francia | | | 200 | |
+| Corea del Sur | |  18 a 30 años | 100 | 3000 USD |
+| Dinamarca | | 18 a 30 años | Ilimitadas | 15000 DKK |
+| Francia | | 18 a 30 años | 200 |  2500 € |
 | Hungría | | | | |
 | Irlanda | | | | |
 | Nueva Zelanda | | | 1000 | |
