@@ -163,6 +163,8 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
 
+***
+
 ### Trabajo remoto 
 
 Listado de los mejores sitios para buscar trabajos remotos. 
@@ -172,6 +174,8 @@ Listado de los mejores sitios para buscar trabajos remotos.
 | Nomad Jobs | http://nomadjobs.io | |
 | We Work Remotely | https://weworkremotely.com | |
 | Stackoverflow | http://stackoverflow.com/jobs/remote-developer-jobs | |
+
+***
 
 ### Coworking 
 
@@ -191,6 +195,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes 
 | Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
 | REQ | http://www.reqcoworking.com | 1 | REQ Co-Working, espacio de oficinas pensado para emprendedores, freelancers y PYMES. | Estamos recolectando la información |
 
+***
 
 ### Herramientas para desarrolladores
 Scripts, códigos y herramientas para nómades digitales que gustan de automatizar tareas y explorar nuevos conocimientos.  
