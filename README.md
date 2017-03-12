@@ -200,7 +200,6 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | StartupM3 | http://startupm3.com | 1 | En StartUpM3 creemos en el potencial de la comunidad para generar transformaciones que potencian ideas de impacto.| **Plan mensual** Costo mensual de $3700. Incluye: Talleres y Actividades (org. p/SUM3) 30% dto, Alquiler de Sala 30% dto, Oficina virtual (recibimos tu correspondencia), OKEI Deli & Café 15% dto, Locker free, Impresora (20 copias free),Tu logo en nuestra web y redes |
 | Belephant | http://belephant.co | 1 | En Belephant no alquilamos puestos de trabajo por hora o por día. | OPEN DESK. Abierto 24/7 los 365 días del año. **Plan regular mensual**: $2.000 . **Plan ejecutivo mensual**: $2.300 |
 | Seis grados | http://seisgrados.com.ar | 1 | - | Personaliza tu propio escritorio al cual le podrás adicionar teléfono. Acceso a todas las instalaciones comunes,  incluye paquete de hs mensuales de sala de reuniones.  **Plan mensual**: $3500 + IVA |
-| WeWork | https://www.wework.com/es-AR/ | 1 | Encontrá un lugar de trabajo inspirador, conectate con una comunidad global y aprovechá los 100+ servicios que ayudan a que tu negocio crezca. | Cualquier escritorio disponible en el área común dentro de una única de nuestras instalaciones. Solo traé tu computadora personal, elegí un asiento libre y a trabajar. **Plan mensual**: $2800 + IVA |
+| WeWork | https://www.wework.com/es-AR/ | 1 | Cuenta con un edificio entero de 25 pisos destinado a espacio de coworking único en Buenos Aires. | Cualquier escritorio disponible en el área común dentro de una única de nuestras instalaciones. Solo traé tu computadora personal, elegí un asiento libre y a trabajar. **Plan mensual**: $2800 + IVA |
 
-wework
 
