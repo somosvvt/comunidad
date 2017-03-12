@@ -66,7 +66,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
 
-Listado de países con Work & Holiday para Chilenos. 
+Listado de países con Work & Holiday para Chilenos. (En proceso) 
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
@@ -132,7 +132,7 @@ Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depen
 La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados. En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
 
 **Consejos para conseguirlas**
- - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
+ - Paga con tarjeta de crédito, el pago es mucho más rápido y el pasaje se emitirá antes.
  - Sé flexible y actúa rápido: si ves un error fare no lo pienses mucho, es probable que al cabo de unas horas ya no esté
  - Nunca llames a una línea aérea para notificar o preguntar acerca de error fare, se darán cuenta del fallo y cancelarán los pasajes.
  
