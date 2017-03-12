@@ -167,11 +167,11 @@ Un nómada digital es un profesional que usa las nuevas tecnologías para trabaj
 
 ### Trabajo remoto 
 
-Listado de los mejores sitios para buscar trabajos remotos. 
+Vivir viajando es el sueño de todo nomadé digital, listado con lo mejores sitios donde poder buscar trabajos remotos. 
 
 | Nombre |   URL  | Comentarios |
 | ------ | ------ | ----------- | 
-| Nomad Jobs | http://nomadjobs.io | |
+| Remote | https://remoteok.io | |
 | We Work Remotely | https://weworkremotely.com | |
 | Stackoverflow | http://stackoverflow.com/jobs/remote-developer-jobs | |
 
