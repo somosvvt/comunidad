@@ -3,9 +3,9 @@
 ## ÍNDICE 
 - [Nuestra comunidad](#nuestra-comunidad)
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
-    - Para Argentina 
+    - Argentina
       - <sub>[Alemania](#visas-de-trabajo-y-vacaciones) | [Australia](#visas-de-trabajo-y-vacaciones) | [Dinamarca](#visas-de-trabajo-y-vacaciones) | [España](#visas-de-trabajo-y-vacaciones) | [Francia](#visas-de-trabajo-y-vacaciones) | [Irlanda](#visas-de-trabajo-y-vacaciones) | [Noruega](#visas-de-trabajo-y-vacaciones) | [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)</sub>
-    - Para Chile 
+    - Chile
       - <sub>Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda | República Checa.</sub>
 - [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
