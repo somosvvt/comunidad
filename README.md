@@ -23,7 +23,7 @@
     - [Estilo de vida](#Estilo-de-vida)
     - [Finanzas](#finanzas)
     - [Utilidades varias](#utilidades-varias)
-- [Coworking](#coworking)
+- [Nómades Digitales](#nómades-digitales)
     - [Coworking en Argentina](#coworking-en-argentina)
 
 ## Nuestra comunidad
@@ -187,11 +187,13 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 ***
 
-## Coworking
+## Nómades Digitales
 
-El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
+
 
 ### Coworking en Argentina. 
+
+El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
 
 | Nombre |   URL  | Sucursales    | Comentarios | Costo mensual |
 | ------ | ------ | :-----------: | ----------- | ------ |
