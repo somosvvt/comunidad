@@ -96,7 +96,7 @@ Nazareno:
 
 ## Error Fares 
 
-Un error fares (tarifa de error) es un pasaje de avión a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
+Un **error fares** es un pasaje de avión a un precio tremendamente más bajo de su valor. Esto es debido a fallo del sistema o a un error humano. Estadísticamente, es inevitable que ocurran. Con la cantidad de vuelos y sistemas de reserva, los errores ocurrirán y serán pasados por alto en muchas ocasiones por las compañías aéreas o agencias online (es muy costoso y lleva mucho tiempo detectarlos).
 
 **¿Por qué suceden las tarifas por error?**
   - Problema técnico en el sitio web de la compañía aérea o agencia online.
