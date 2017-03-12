@@ -217,4 +217,5 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | Nombre          |   GIT                                      | Descripcion                              |
 | --------------- | ------------------------------------------ | ---------------------------------------- |
 | Expedia Crawler | https://github.com/Shadi-A/ExpediaCrawler  | Simple script to get best offers from expedia given codes for departure and destination cities, departure and return dates, and other dates on the future based on these dates |
-| Flight Search   | https://github.com/kjam/python_flight_search  | Simple and extendable series of Python scripts for searching flight options. +Info: http://kjamistan.com/python-flight-search/ |
+| Flight Search   | https://github.com/kjam/python_flight_search  | Simple and extendable series of Python scripts for searching flight options. +Info: http://kjamistan.com/python-flight-search |
+| Tripadvisor Scraper  | https://gist.github.com/scrapehero/92089063bbfa665c46b1937193b06fa2  | Python Script to scrape Tripadvisor.com for Hotels in a locality. Code Written as part of https://www.scrapehero.com/how-to-scrape-tripadvisor/ |
