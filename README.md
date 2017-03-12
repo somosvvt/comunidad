@@ -25,7 +25,8 @@
     - [Utilidades varias](#utilidades-varias)
 - [Nómades Digitales](#nómades-digitales)
     - [Coworking en Argentina](#coworking-en-argentina)
-    - [Scripts y utilidades varias para desarrolladores](#scripts-y-utilidades-varias-para-desarrolladores)
+    - [Herramientas para desarrolladores](#scripts-y-utilidades-varias-para-desarrolladores)
+       - Scripts para automatizar tareas 
 
 ## Nuestra comunidad
 
@@ -209,7 +210,9 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 | Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
 
 
-### Scripts y utilidades varias para desarrolladores
+### Herramientas para desarrolladores
+
+#### Scripts para automatizar tareas 
 
 | Nombre          |   URL GIT                                  | Descripcion                              |
 | --------------- | ------------------------------------------ | ---------------------------------------- |
