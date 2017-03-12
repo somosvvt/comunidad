@@ -7,7 +7,8 @@
       - <sub>[Alemania](#visas-de-trabajo-y-vacaciones) | [Australia](#visas-de-trabajo-y-vacaciones) | [Dinamarca](#visas-de-trabajo-y-vacaciones) | [España](#visas-de-trabajo-y-vacaciones) | [Francia](#visas-de-trabajo-y-vacaciones) | [Irlanda](#visas-de-trabajo-y-vacaciones) | [Noruega](#visas-de-trabajo-y-vacaciones) | [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)</sub>
     - Chile
       - <sub>Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda | República Checa.</sub>
-    - México   
+    - México
+    - Uruguay 
 - [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Error Fares](#error-fares) 
