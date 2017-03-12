@@ -22,7 +22,7 @@
        - [Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
        - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas)     
-- [Aplicaciones para viajeros](#aplicaciones-útiles-para-nuestro-viaje)
+- [Aplicaciones para viajeros](#aplicaciones-para-viajeros)
     - [Mapas y navegación](#mapas-y-navegación)
     - [Planificación de viajes](#planificación-de-viajes)
     - [Wikis y guías informativas](#wikis-y-guías-informativas)
@@ -194,9 +194,9 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 
 ***
 
-## Aplicaciones útiles para nuestro viaje
+## Aplicaciones para viajeros
 
-### Listado de las aplicaciones utilizadas y recomendadas por la comunidad.  
+Listado de las aplicaciones utilizadas y recomendadas por la comunidad.  
 
 #### Mapas y navegación
 | Sitio | URL | Comentarios
