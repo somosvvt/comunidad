@@ -115,14 +115,14 @@ La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esp
  - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
  - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
  
-** Cuentas de Twitter donde encontrar Error Fares**
+**Cuentas de Twitter donde encontrar Error Fares**
  
 | Usuario | Url  | Comentarios
 | ------ | ------ | ------ |
-| SecretFlying | https://twitter.com/SecretFlying | |
-| TheFlightDeal | https://twitter.com/TheFlightDeal | |
-| Fly4freecom | https://twitter.com/Fly4freecom | |
-| AirFareWatchDog | https://twitter.com/airfarewatchdog | |
+| @SecretFlying | https://twitter.com/SecretFlying | -  |
+| @TheFlightDeal | https://twitter.com/TheFlightDeal | - |
+| @Fly4freecom | https://twitter.com/Fly4freecom | - |
+| @AirFareWatchDog | https://twitter.com/airfarewatchdog | - |
 
 
 ***
