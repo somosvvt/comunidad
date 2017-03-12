@@ -25,8 +25,8 @@
     - [Utilidades varias](#utilidades-varias)
 - [Nómades Digitales](#nómades-digitales)
     - [Coworking en Argentina](#coworking-en-argentina)
-    - [Herramientas para desarrolladores](#scripts-y-utilidades-varias-para-desarrolladores)
-       - Scripts para automatizar tareas 
+    - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
+       - [Scripts para automatizar tareas](#scripts-para-automatizar-tareas) 
 
 ## Nuestra comunidad
 
