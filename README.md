@@ -121,20 +121,20 @@ Un **error fares** es un pasaje de avión a un precio tremendamente más bajo de
 
 **¿Por qué suceden los error fares?**
   - Problema técnico en el sitio web de la compañía aérea o agencia online.
-  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar billetes de clase Business a asientos de clase Turista.
+  - Fallos humanos: no incluir el recargo por combustible; poner un cero menos en la tarifa; errores en la conversión de tarifas, errores en cupones promocionales; asignar pasajes de clase Business a asientos de clase Turista.
   
 **¿Cuánto duran?**
 
-Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos la tarifa error por la noche o durante el fin de semana, es más fácil que dure. 
+Es la pregunta del millón: pueden ser minutos, horas, algún día… Todo depende del tiempo que pase hasta que se dan cuenta del error y corrigen la tarifa. Si encontramos un error fare por la noche o durante el fin de semana, es más fácil que dure. 
 
-**¿Pueden cancelar el vuelo o la reserva del hotel?**
+**¿Pueden cancelar el vuelo?**
 
 La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esperar a recibir por email la confirmación de los pasajes ante de hacer cualquier otra reserva como vuelos internos o visados. En el caso de que hubiéramos realizado el pago y la aerolínea cancelara el vuelo, nos devolverían sin ningún problema el importe pagado. 
 
 **Consejos para conseguirlas**
  - Si puedes, paga con tarjeta de crédito, que el pago es mucho más rápido y el billete se emitirá antes.
- - Sé flexible y actúa rápido: si ves una tarifa error no lo pienses mucho, es probable que al cabo de unas horas ya no esté
- - Nunca llames a una línea aérea para notificar o preguntar acerca de una tarifa de error, se darán cuenta del fallo y cancelarán los pasajes.
+ - Sé flexible y actúa rápido: si ves un error fare no lo pienses mucho, es probable que al cabo de unas horas ya no esté
+ - Nunca llames a una línea aérea para notificar o preguntar acerca de error fare, se darán cuenta del fallo y cancelarán los pasajes.
  
 **Cuentas de Twitter para buscar Error Fares en tiempo real**
  
