@@ -57,29 +57,29 @@ Listado de países con Work & Holiday para Argentinos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| Ilimitadas | 1.200 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#alemania)) |
-| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5.000 AUD ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#australia)) |
-| Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | Ilimitadas | 15.000 DKK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#dinamarca))| 
+| Alemania | https://goo.gl/Bn1CJJ | 18 a 30 años| Ilimitadas | 1200 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#alemania)) |
+| Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5000 AUD ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#australia)) |
+| Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | Ilimitadas | 15000 DKK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#dinamarca))| 
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | En proceso de aprobación |
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info] (https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))|
-| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1.500 € |
-| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31.185 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
-| Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4.200 NZD
+| Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1500 € |
+| Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
+| Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
 
 Listado de países con Work & Holiday para Chilenos. 
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania |
-| Australia |
-| Canadá |
-| Corea del Sur |
-| Dinamarca |
-| Francia |
-| Hungría |
-| Irlanda |
-| Nueva Zelanda |
-| República Checa |
+| Alemania | | | 1500 | |
+| Australia | | | | |
+| Canadá | | | 750 | |
+| Corea del Sur | | | 100 | |
+| Dinamarca | | | | |
+| Francia | | | 200 | |
+| Hungría | | | | |
+| Irlanda | | | | |
+| Nueva Zelanda | | | 1000 | |
+| República Checa | | | | |
 
 ***
 
