@@ -163,9 +163,10 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 Un nómada digital es un profesional que usa las nuevas tecnologías para trabajar, y que lleva a cabo un estilo de vida nómada. Por lo general, los nómadas digitales trabajan de forma remota en lugar de hacerlo en un entorno de trabajo estable.
 
+
 ### Coworking 
 
-El coworking es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diferentes sectores, compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
+El coworking es una forma de trabajo que permite a profesionales independientes y emprendedores compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
 
 #### Coworking en Argentina
 
@@ -183,6 +184,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 
 
 ### Herramientas para desarrolladores
+Scripts, códigos y herramientas para nómades digitales que gustan de automatizar tareas y explorar nuevos conocimientos.  
 
 #### Scripts para automatizar tareas 
 
