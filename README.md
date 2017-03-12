@@ -214,7 +214,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes,
 
 #### Scripts para automatizar tareas 
 
-| Nombre          |   URL GIT                                  | Descripcion                              |
+| Nombre          |   GIT                                      | Descripcion                              |
 | --------------- | ------------------------------------------ | ---------------------------------------- |
 | Expedia Crawler | https://github.com/Shadi-A/ExpediaCrawler  | Simple script to get best offers from expedia given codes for departure and destination cities, departure and return dates, and other dates on the future based on these dates |
 | Flight Search   | https://github.com/kjam/python_flight_search  | Simple and extendable series of Python scripts for searching flight options. +Info: http://kjamistan.com/python-flight-search/ |
