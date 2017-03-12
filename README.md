@@ -117,7 +117,7 @@ Nazareno:
 
 ## Error Fares 
 
-Un **error fares** es un pasaje de avión a un precio a un fracción de su valor normal. 
+Un **error fares** es un pasaje de avión a una fracción de su valor normal. 
 
 **¿Por qué suceden los error fares?**
   - Problema técnico en el sitio web de la compañía aérea o agencia online.
