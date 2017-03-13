@@ -248,6 +248,7 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | ------ | ------ | ------ |
 | Hopper | http://www.hopper.com/ | Hopper analiza millones de vuelos, predice cómo fluctuarán los precios y avisa del mejor momento para comprar los billetes o emprender el viaje. Gratis para iOS y Android.  |
 | Google Trips  | https://goo.gl/w4Jggt | Google Trips es una aplicación gratuita para iOS y Android que detecta automáticamente las reservas de vuelos, hoteles y eventos a partir de la información encontrada en la cuenta de Gmail y la actividad del usuario y las organiza en carpetas de viajes individuales y personalizadas con planes del día, mapas, rutas, lugares donde comer o información meteorológica, así como los datos de las reserva -vuelos, fechas, horarios, localizadores de hotel, tarjetas de embarque-, reunidos en un solo lugar. La información de cada viaje se puede descargar para utilizarla después sin conexión a Internet. |
+| TripLine  | https://www.tripline.net/ | TripLine es una aplicacion gratuita para planificar viajes mediante mapas Interactivos |
 
 #### Wikis y guías informativas
 
