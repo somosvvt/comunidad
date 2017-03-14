@@ -9,6 +9,9 @@
       - <sub>Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda | República Checa.</sub>
     - México
     - Uruguay 
+- [Seguros](#seguros)
+    - [De viaje](#seguros-de-viaje)
+    - [De salud](#seguros-de-salud) 
 - [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Error Fares](#error-fares) 
