@@ -111,7 +111,7 @@ Travel assistance
 | ------ | ------ | ------ | :------: | ------ |
 | Visa Travel assistance| http://www.visa.com.ar | Con Visa Travel Assistance, el titular de cuenta Visa Gold y su grupo familiar directo están protegidos sin cargo adicional alguno ante cualquier imprevisto de salud o legal que pueda surgir en sus viajes al exterior. | | |
 | Assist Card| https://www.assistcard.com/ar | ¿Viaje de estudio? ¿Viaje de placer? ¿Viaje de intercambio? ¿Work & study? Sí viajas por un año necesitas una asistencia médica al viajero anual. Ahorra tiempo y dinero con nuestro producto anual. | | |
-| Coris | https://www.assistcard.com/ar | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD** El plan STUDENT está especialmente diseñado para estudiantes o personas de hasta 45 años de edad; que cursen sus estudios o realicen prácticas profesionales en el exterior. | |
+| Coris | https://www.assistcard.com/ar | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD**  | |
 
 
 
