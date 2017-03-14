@@ -10,8 +10,8 @@
     - México
     - Uruguay 
 - [Seguros](#seguros)
-    - [De viaje](#seguros-de-viaje)
-    - [De salud](#seguros-de-salud) 
+    - [Asistencia al viajero](#asistencia-al-viajero)
+    - [Seguro de viajes](#seguro-de-viajes) 
 - [Vuelos](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Al mejor precio](#sitios-para-encontrar-vuelos-al-mejor-precio)
     - [Error Fares](#error-fares) 
@@ -84,6 +84,32 @@ Listado de países con Work & Holiday para Chilenos. (En proceso)
 | Nueva Zelanda | https://goo.gl/dtWgvO |  18 a 35 años | 940 | 4200 NZD |
 | República Checa | https://goo.gl/VsU9wr | 18 a 30 años | 200 | 3200 USD |
 | Suecia | https://goo.gl/jDLSZj | 18 a 30 años | Ilimitadas | 15000 SEK |
+
+***
+
+## Seguros 
+
+Aunque pareciera que la **Asistencia al Viajero** funciona de la misma manera que un **Seguro de Viajes** o se cree que son lo mismo, existen marcadas diferencias que debes conocer si es que estás próximo a viajar.
+
+**El servicio de Asistencia al Viajero te brinda la prestaciones de forma directa**, en el lugar y momento en que lo necesitas sin que debas realizar algún pago para cubrir el incidente. Con el seguro de viaje tendrás que realizar los pagos por tu cuenta y la compañía reembolsa el dinero una vez regreses a tu ciudad de origen y realices la solicitud correspondiente.
+
+**La Asistencia al Viajero te ayuda a solucionar problemas que puedas tener en el extranjero**, como por ejemplo a qué hospital ir o a qué abogado consultar, según como estén incluidos en su red de cobertura. Con el Seguro de Viaje serás libre de elegir, aunque contarás con el apoyo de la aseguradora, quien no te dejará solo.
+
+**Con la Asistencia en Viaje contarás con cobertura hasta el día que finalice tu viaje**, mientras que con el Seguro de Viaje proveerá sus servicios hasta la fecha que haya sido contratado o hasta el tope del monto.
+
+**El servicio de asistencia al viajero es otorgado por una empresa de asistencia**, mientras que el seguro de viaje es expedido por una compañía de seguros, dos negocios distintos con un mismo fin: ayudarte en el extranjero cuando te encuentras en problemas. 
+
+**Cuando regresas del viaje, la aseguradora evaluará cada ticket o factura presentada para confirmar el reembolso del dinero en su totalidad o no**, pero si optas por un servicio de Asistencia del Viajero desde el comienzo y durante la prestación sabrás contra qué estás cubierto. 
+
+Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evaluar la que mejor se adapte al destino y al tipo de viaje que hagas.  Lo importante es que no salgas de vacaciones o de viaje de negocios sin una Asistencia al Viajero o un Seguro de Viaje, sobre todo si vas a viajar al espacio Schengen (Alemania, Australia, Bélgica, Dinamarca, España, Finlandia, Francia, Grecia, Islandia, Italia, Luxemburgo, Noruega, Holanda, Portugal y Suecia), en donde estar asegurado o contar con un servicio de asistencia en viajes es uno de los requisitos indispensable para poder ingresar. 
+
+### Asistencia al viajero
+
+
+
+### Seguro de viajes
+
+
 
 ***
 
