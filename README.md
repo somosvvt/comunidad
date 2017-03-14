@@ -47,7 +47,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 |  Telegram | https://t.me/somosvvt | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 |  Twitter  | https://twitter.com/somosvvt  | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) |
 
-**Agradecemos a todos los colegas de VVT que colaboraron con ideas y sugerencias para esta guía:** Paola Sapoznik Derman, Gonzalo Naveira, Anibal Martínez, Sergio Urin, Matias Gagliardi, Natalia Pizzi, Verónica Toller, Nazareno Lorenzo, Aldano Pelusso, Hernán Diego, Diego Maximiliano, Juan Pablo Beldomenico, Cristian Giménez, Rodrigo Gemin, Lucas Baldoni, Facundo Quiroga, Luis Miguel Vittori, Roxy Bo y Gus Aragón.
+**Agradecemos a todos los colegas de VVT que colaboraron con ideas y sugerencias para esta guía:** Paola Sapoznik Derman, Gonzalo Naveira, Anibal Martínez, Sergio Urin, Matias Gagliardi, Sacul Vigil, Natalia Pizzi, Verónica Toller, Nazareno Lorenzo, Aldano Pelusso, Hernán Diego, Diego Maximiliano, Juan Pablo Beldomenico, Cristian Giménez, Rodrigo Gemin, Lucas Baldoni, Facundo Quiroga, Luis Miguel Vittori, Roxy Bo y Gus Aragón.
 
 ***
 
@@ -198,6 +198,15 @@ Listado de los sitios utilizado por la comunidad para buscar trabajos remotos.
 | WorkingNomads | http://workingnomads.co | 
 | Jobspresso | https://jobspresso.co |
 | Github Jobs| https://jobs.github.com/positions?description=&location=Remote |
+| AngelList| https://angel.co/jobs |
+| Flexjobs| https://www.flexjobs.com |
+| Getonbrd| https://www.getonbrd.com.ar |
+| Authentic Jobs| https://authenticjobs.com/#remote=true |
+| Skip The Drive| http://www.skipthedrive.com/#browse |
+| Ruby Now| https://jobs.rubynow.com |
+| UpWork| https://www.upwork.com |
+| Monster| https://www.monster.com |
+
 
 ***
 
