@@ -64,7 +64,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Australia | https://goo.gl/gHZPMN | 18 a 30 años | 700 |  5000 AUD ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#australia)) |
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | Ilimitadas | 15000 DKK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#dinamarca))| 
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | En proceso de aprobación |
-| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info] (https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))|
+| Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))|
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1500 € |
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
@@ -90,7 +90,7 @@ Listado de países con Work & Holiday para Chilenos. (En proceso)
 ## Seguros 
 
 Aunque pareciera que la **Asistencia al Viajero** funciona de la misma manera que un **Seguro de Viajes** o se cree que son lo mismo, existen marcadas diferencias que debes conocer si es que estás próximo a viajar.
-
+-er0
 - **El servicio de Asistencia al Viajero te brinda la prestaciones de forma directa**, en el lugar y momento en que lo necesitas sin que debas realizar algún pago para cubrir el incidente. Con el seguro de viaje tendrás que realizar los pagos por tu cuenta y la compañía reembolsa el dinero una vez regreses a tu ciudad de origen y realices la solicitud correspondiente.
 
 - **La Asistencia al Viajero te ayuda a solucionar problemas que puedas tener en el extranjero**, como por ejemplo a qué hospital ir o a qué abogado consultar, según como estén incluidos en su red de cobertura. Con el Seguro de Viaje serás libre de elegir, aunque contarás con el apoyo de la aseguradora, quien no te dejará solo.
@@ -104,6 +104,14 @@ Aunque pareciera que la **Asistencia al Viajero** funciona de la misma manera qu
 Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evaluar la que mejor se adapte al destino y al tipo de viaje que hagas.  Lo importante es que no salgas de vacaciones o de viaje de negocios sin una Asistencia al Viajero o un Seguro de Viaje, sobre todo si vas a viajar al espacio Schengen (Alemania, Australia, Bélgica, Dinamarca, España, Finlandia, Francia, Grecia, Islandia, Italia, Luxemburgo, Noruega, Holanda, Portugal y Suecia), en donde estar asegurado o contar con un servicio de asistencia en viajes es uno de los requisitos indispensable para poder ingresar. 
 
 ### Asistencia al viajero
+
+Travel assistance
+
+| Sitio | URL | Comentarios | Costo Anual |  Ranking en VVT
+| ------ | ------ | ------ | :------: | ------ |
+| Visa Travel assistance| http://www.visa.com.ar | Con Visa Travel Assistance, el titular de cuenta Visa Gold y su grupo familiar directo están protegidos sin cargo adicional alguno ante cualquier imprevisto de salud o legal que pueda surgir en sus viajes al exterior. | | |
+| Assist Card| https://www.assistcard.com/ar | ¿Viaje de estudio? ¿Viaje de placer? ¿Viaje de intercambio? ¿Work & study? Sí viajas por un año necesitas una asistencia médica al viajero anual. Ahorra tiempo y dinero con nuestro producto anual. | | |
+| Coris | https://www.assistcard.com/ar | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD** El plan STUDENT está especialmente diseñado para estudiantes o personas de hasta 45 años de edad; que cursen sus estudios o realicen prácticas profesionales en el exterior. | |
 
 
 
