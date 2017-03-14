@@ -109,7 +109,10 @@ Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evalua
 | ------ | ------ | ------ | :------: | ------ |
 | Visa Travel assistance| http://www.visa.com.ar | Con Visa Travel Assistance, el titular de cuenta Visa Gold y su grupo familiar directo están protegidos sin cargo adicional alguno ante cualquier imprevisto de salud o legal que pueda surgir en sus viajes al exterior. | | |
 | Assist Card| https://www.assistcard.com/ar | ¿Viaje de estudio? ¿Viaje de placer? ¿Viaje de intercambio? ¿Work & study? Sí viajas por un año necesitas una asistencia médica al viajero anual. Ahorra tiempo y dinero con nuestro producto anual. | | |
-| Coris | https://www.assistcard.com/ar | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD**  | |
+| Coris | http://april.coris.com/argentina | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD**  | |
+| World Nomads | https://www.worldnomads.com/travel-insurance | Simple and Flexible Travel Insurance. Buy at home or while traveling, and claim online from anywhere in the world. | | |
+| Universal Assistance | http://www.universal-assistance.com | Estamos presentes en más de 150 países, disponemos de un equipo de profesionales calificados y altamente entrenados para responder de manera eficaz y confiable. | | |
+| Assist 365 | https://www.assist-365.com | Somos una organización internacional con sede en EEUU, formada por un equipo de profesionales y expertos en asistencia al viajero. | | |
 
 
 ### Seguro de viajes
