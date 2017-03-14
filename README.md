@@ -90,7 +90,7 @@ Listado de países con Work & Holiday para Chilenos. (En proceso)
 ## Seguros 
 
 Aunque pareciera que la **Asistencia al Viajero** funciona de la misma manera que un **Seguro de Viajes** o se cree que son lo mismo, existen marcadas diferencias que debes conocer si es que estás próximo a viajar.
--er0
+
 - **El servicio de Asistencia al Viajero te brinda la prestaciones de forma directa**, en el lugar y momento en que lo necesitas sin que debas realizar algún pago para cubrir el incidente. Con el seguro de viaje tendrás que realizar los pagos por tu cuenta y la compañía reembolsa el dinero una vez regreses a tu ciudad de origen y realices la solicitud correspondiente.
 
 - **La Asistencia al Viajero te ayuda a solucionar problemas que puedas tener en el extranjero**, como por ejemplo a qué hospital ir o a qué abogado consultar, según como estén incluidos en su red de cobertura. Con el Seguro de Viaje serás libre de elegir, aunque contarás con el apoyo de la aseguradora, quien no te dejará solo.
@@ -105,8 +105,6 @@ Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evalua
 
 ### Asistencia al viajero
 
-Travel assistance
-
 | Sitio | URL | Comentarios | Costo Anual |  Ranking en VVT
 | ------ | ------ | ------ | :------: | ------ |
 | Visa Travel assistance| http://www.visa.com.ar | Con Visa Travel Assistance, el titular de cuenta Visa Gold y su grupo familiar directo están protegidos sin cargo adicional alguno ante cualquier imprevisto de salud o legal que pueda surgir en sus viajes al exterior. | | |
@@ -114,10 +112,7 @@ Travel assistance
 | Coris | https://www.assistcard.com/ar | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD**  | |
 
 
-
 ### Seguro de viajes
-
-
 
 ***
 
