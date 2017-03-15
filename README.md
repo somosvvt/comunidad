@@ -109,8 +109,8 @@ Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evalua
 | ------ | ------ | ------ | :------: | :------: |
 | Assist Card| https://www.assistcard.com/ar | ¿Viaje de estudio? ¿Viaje de placer? ¿Viaje de intercambio? ¿Work & study? Sí viajas por un año necesitas una asistencia médica al viajero anual. Ahorra tiempo y dinero con nuestro producto anual. | | 1 |
 | Coris | http://april.coris.com/argentina | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD**  | 2 |
-| World Nomads | https://www.worldnomads.com/travel-insurance | Simple and Flexible Travel Insurance. Buy at home or while traveling, and claim online from anywhere in the world. | | 4 |
 | Universal Assistance | http://www.universal-assistance.com | Estamos presentes en más de 150 países, disponemos de un equipo de profesionales calificados y altamente entrenados para responder de manera eficaz y confiable. | | 3 |
+| World Nomads | https://www.worldnomads.com/travel-insurance | Simple and Flexible Travel Insurance. Buy at home or while traveling, and claim online from anywhere in the world. | | 4 |
 | Assist 365 | https://www.assist-365.com | Somos una organización internacional con sede en EEUU, formada por un equipo de profesionales y expertos en asistencia al viajero. | | 5 |
 | Visa Travel assistance| http://www.visa.com.ar | Con Visa Travel Assistance, el titular de cuenta Visa Gold y su grupo familiar directo están protegidos sin cargo adicional alguno ante cualquier imprevisto de salud o legal que pueda surgir en sus viajes al exterior. | | 6 |
 
@@ -126,13 +126,13 @@ Listado de los sitios utilizado por la comunidad para buscar vuelos al mejor pre
 | Sitio | URL | Comentarios | Ranking en VVT
 | ------ | ------ | :------: | :------: |
 | Skyscanner | https://www.skyscanner.net | Fácil de usar | 1 |
-| Hipmunk | https://www.hipmunk.com/flights | Fácil de usar | 5
-| Adioso | http://adioso.com | Fácil de usar | 3
-| Kayak | https://www.kayak.com | Fácil de usar | 4
 | Google Flights | https://www.google.com/flights | Fácil de usar | 2 | 
-| Kiwi | http://kiwi.com | Fácil de usar | 6
-| Matrix | http://matrix.itasoftware.com | Difícil de usar | 7
-| Momondo |http://www.momondo.com | Fácil de usar | 8
+| Adioso | http://adioso.com | Fácil de usar | 3 |
+| Kayak | https://www.kayak.com | Fácil de usar | 4 |
+| Hipmunk | https://www.hipmunk.com/flights | Fácil de usar | 5|
+| Kiwi | http://kiwi.com | Fácil de usar | 6|
+| Matrix | http://matrix.itasoftware.com | Difícil de usar | 7|
+| Momondo |http://www.momondo.com | Fácil de usar | 8|
 
 #### Notas de nuestros usuarios: 
 
