@@ -101,7 +101,7 @@ Aunque pareciera que la **Asistencia al Viajero** funciona de la misma manera qu
 
 - **Cuando regresas del viaje, la aseguradora evaluará cada ticket o factura presentada para confirmar el reembolso del dinero en su totalidad o no**, pero si optas por un servicio de Asistencia del Viajero desde el comienzo y durante la prestación sabrás contra qué estás cubierto. 
 
-Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evaluar la que mejor se adapte al destino y al tipo de viaje que hagas.  Lo importante es que no salgas de vacaciones o de viaje de negocios sin una Asistencia al Viajero o un Seguro de Viaje, sobre todo si vas a viajar al espacio Schengen (Alemania, Australia, Bélgica, Dinamarca, España, Finlandia, Francia, Grecia, Islandia, Italia, Luxemburgo, Noruega, Holanda, Portugal y Suecia), en donde estar asegurado o contar con un servicio de asistencia en viajes es uno de los requisitos indispensable para poder ingresar. 
+Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evaluar la que mejor se adapte al destino y al tipo de viaje que hagas.  Lo importante es que no salgas de vacaciones o de viaje de negocios sin una Asistencia al Viajero o un Seguro de Viaje, sobre todo si vas a viajar al espacio Schengen; Alemania, Australia, Bélgica, Dinamarca, España, Finlandia, Francia, Grecia, Islandia, Italia, Luxemburgo, Noruega, Holanda, Portugal y Suecia, en donde estar asegurado o contar con un servicio de asistencia en viajes es uno de los requisitos indispensable para poder ingresar. 
 
 ### Asistencia al viajero
 
