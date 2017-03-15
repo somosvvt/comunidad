@@ -333,5 +333,6 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | ------ | ------ | ------ |
 | Instagram | https://www.instagram.com | La red social por excelencia para compartir nuestras fotos de viajes. Elegir un buen hashtag es clave para lograr una buena difusión. |
 | Dropbox | https://www.dropbox.com | Durante un viaje largo siempre es bueno tener un backup a mano con toda nuestra documentacion personal. |
+| Prey | https://www.preyproject.com/es/ | Que roben tu laptop o teléfono es terrible, pero hay algo que puedes hacer al respecto. Prey es un software de protección antirrobos ligero que te ayuda a recuperar tus dispositivos si se pierden o los roban. |
 | Air Help  | https://www.airhelp.com/es | Air Help es una aplicación que permite gestionar desde el móvil y en solo tres minutos las indemnizaciones por retrasos, cancelaciones y overbooking de los vuelos (entre 250 y 600 euros), sin hacer colas en los mostradores de las compañías. Cobran el 25% de la reclamación solo si esta prospera. Disponible para iOS o Android.|
 
