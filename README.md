@@ -106,7 +106,7 @@ Cualquiera de las dos opciones te brinda cobertura suficiente, solo debes evalua
 ### Asistencia al viajero
 
 | Sitio | URL | Comentarios | Costo Anual |  Ranking en VVT
-| ------ | ------ | ------ | :------: | ------ |
+| ------ | ------ | ------ | :------: | :------: |
 | Assist Card| https://www.assistcard.com/ar | ¿Viaje de estudio? ¿Viaje de placer? ¿Viaje de intercambio? ¿Work & study? Sí viajas por un año necesitas una asistencia médica al viajero anual. Ahorra tiempo y dinero con nuestro producto anual. | | 1 |
 | Coris | http://april.coris.com/argentina | CORIS tiene experiencia y probada estructura para solucionar rápida y efectivamente cualquier imprevisto en cualquier lugar del mundo. | **742 USD**  | 2 |
 | World Nomads | https://www.worldnomads.com/travel-insurance | Simple and Flexible Travel Insurance. Buy at home or while traveling, and claim online from anywhere in the world. | | 4 |
