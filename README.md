@@ -317,6 +317,7 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Rome2rio  | https://www.rome2rio.com | Descubre cómo llegar a cualquier lugar en avión, tren, autobús, coche. |
 | Uber | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 | BlaBlaCar |  https://www.blablacar.com | BlaBlaCar conecta personas en Europa que necesitan viajar con conductores que tienen asientos vacíos - Carpooling. |
+| GoEuro |  https://www.goeuro.com | GoEuro es un metabuscador que nuclea a la mayoría de los trenes y buses de larga distancia europeos. |
 
 #### Estilo de vida
 
