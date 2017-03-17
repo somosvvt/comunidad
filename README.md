@@ -168,7 +168,7 @@ La compañía aérea puede cancelar el vuelo por lo que siempre recomendamos esp
 
 **Consejos para conseguirlas**
  - Paga con tarjeta de crédito, el pago es mucho más rápido y el pasaje se emitirá antes.
- - Sé flexible y actúa rápido: si ves un error fare no lo pienses mucho, es probable que al cabo de unas horas ya no esté
+ - Sé flexible y actúa rápido: si ves un error fare no lo pienses mucho, es probable que al cabo de unas horas ya no esté.
  - Nunca llames a una línea aérea para notificar o preguntar acerca de error fare, se darán cuenta del fallo y cancelarán los pasajes.
  
 **Cuentas de Twitter para buscar Error Fares en tiempo real**
@@ -196,7 +196,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | Opodo  | http://www.opodo.com | Buscador de hoteles |
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
-| Hundred Rooms  | https://www.hundredrooms.com | Compara precios en más de seis millones de apartamentos y casas de vacaciones de todo el mundo, buscando en webs como Booking, 9flats, Only-Apartaments, HouseTrip, Airbnb, Wimdu o HomeAway. |
+| Hundred Rooms  | https://www.hundredrooms.com | Compará precios en más de seis millones de apartamentos y casas de vacaciones de todo el mundo, buscando en webs como Booking, 9flats, Only-Apartaments, HouseTrip, Airbnb, Wimdu o HomeAway. |
 
 
 Listado de los sitios utilizado por la comunidad para buscar alojamientos gratuitos. 
