@@ -74,9 +74,9 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Alemania  | | 18 a 30 años | Ilimitadas | 1200 €  |
-| Australia | | 18 a 30 años | 1500 | 5000 AUD |
-| Canadá | | | 750 | |
+| Alemania  | https://goo.gl/zpOc9v | 18 a 30 años | Ilimitadas | 1200 €  |
+| Australia | https://goo.gl/f0kwjB | 18 a 30 años | 1500 | 5000 AUD |
+| Canadá | https://goo.gl/LDxxYP | 18 a 35 años | 725 | 2500 CAD |
 | Corea del Sur | |  18 a 30 años | 100 | 3000 USD |
 | Dinamarca | | 18 a 30 años | Ilimitadas | 15000 DKK |
 | Francia | | 18 a 30 años | 200 |  2500 € |
