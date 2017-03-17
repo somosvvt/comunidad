@@ -8,7 +8,8 @@
     - Chile
       - <sub>Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda | República Checa.</sub>
     - México
-    - Uruguay 
+    - Uruguay
+      - <sub>Australia | Francia | Nueva Zelanda .</sub>
 - [Seguros](#seguros)
     - [Asistencia al viajero](#asistencia-al-viajero)
     - [Seguro de viajes](#seguro-de-viajes) 
@@ -56,7 +57,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 
 ## Visas de trabajo y vacaciones
 
-Listado de países con Work & Holiday para Argentinos. 
+#### Listado de países con Work & Holiday para Argentinos. 
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
@@ -69,7 +70,7 @@ Listado de países con Work & Holiday para Argentinos.
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
 
-Listado de países con Work & Holiday para Chilenos. (En proceso) 
+##### Listado de países con Work & Holiday para Chilenos. (En proceso) 
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
@@ -84,6 +85,14 @@ Listado de países con Work & Holiday para Chilenos. (En proceso)
 | Nueva Zelanda | https://goo.gl/dtWgvO |  18 a 35 años | 940 | 4200 NZD |
 | República Checa | https://goo.gl/VsU9wr | 18 a 30 años | 200 | 3200 USD |
 | Suecia | https://goo.gl/jDLSZj | 18 a 30 años | Ilimitadas | 15000 SEK |
+
+#### Listado de países con Work & Holiday para Uruguayos. (En proceso) 
+
+| País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
+| ------ | ------ | :------------------: |:------: | :------ |
+| Australia | | 18 a 30 años | 1500 | 5000 AUD |
+| Francia | | 18 a 30 años | 200 |  2500 € |
+| Nueva Zelanda | |  18 a 35 años | 940 | 4200 NZD |
 
 ***
 
