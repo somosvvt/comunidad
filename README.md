@@ -3,12 +3,12 @@
 ## ÍNDICE 
 - [Nuestra comunidad](#nuestra-comunidad)
 - [Visas de trabajo y vacaciones](#visas-de-trabajo-y-vacaciones)
-    - Argentina
+    - [Argentina](#listado-de-países-con-work--holiday-para-argentinos)
       - <sub>[Alemania](#visas-de-trabajo-y-vacaciones) | [Australia](#visas-de-trabajo-y-vacaciones) | [Dinamarca](#visas-de-trabajo-y-vacaciones) | [España](#visas-de-trabajo-y-vacaciones) | [Francia](#visas-de-trabajo-y-vacaciones) | [Irlanda](#visas-de-trabajo-y-vacaciones) | [Noruega](#visas-de-trabajo-y-vacaciones) | [Nueva Zelanda](#visas-de-trabajo-y-vacaciones)</sub>
-    - Chile
+    - [Chile](#listado-de-países-con-work--holiday-para-chilenos)
       - <sub>Alemania | Australia | Canadá | Corea del Sur | Dinamarca | Francia | Hungría | Irlanda | Nueva Zelanda | República Checa.</sub>
-    - México
-    - Uruguay
+    - [México](#listado-de-países-con-work--holiday-para-mexicanos)
+    - [Uruguay](#listado-de-países-con-work--holiday-para-uruguayos)
       - <sub>Australia | Francia | Nueva Zelanda .</sub>
 - [Seguros](#seguros)
     - [Asistencia al viajero](#asistencia-al-viajero)
