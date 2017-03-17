@@ -90,9 +90,9 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
-| Australia | | 18 a 30 años | 1500 | 5000 AUD |
-| Francia | | 18 a 30 años | 200 |  2500 € |
-| Nueva Zelanda | |  18 a 35 años | 940 | 4200 NZD |
+| Australia | https://goo.gl/osNfxb | 18 a 30 años | 200 | 5000 AUD |
+| Francia | https://goo.gl/7vcSbP | 18 a 30 años | 300 |  2500 € |
+| Nueva Zelanda |https://goo.gl/PFVQCv  |  18 a 35 años | 200 | 4200 NZD |
 
 ***
 
