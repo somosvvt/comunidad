@@ -203,11 +203,11 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos gratui
 
 | Sitio  |  URL   | Comentarios | Suscripción | 
 | ------ | ------ | ----------- | :---------------: |
-| Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente | <sub>20 USD x año</sub> |
-| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  | <sub>38 USD x año</sub> |
-| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. | <sub>20 € x2 años</sub> |
-| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. | <sub>38 USD x año</sub> |
-| TrustedHousesitters | https://www.trustedhousesitters.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | <sub>75 USD x año</sub> |
+| Couchsurfing  | https://www.couchsurfing.com | Comunidad de viajeros que se alojan gratuitamente | <sub>20 USD x año (opcional)</sub> |
+| WWOOFing  | http://wwoof.net | Trabaja como voluntariado en una granja a cambio de comida y alojamiento.  | <sub> 0 - 72USD x año dependiendo del pais</sub> |
+| HelpX  | https://www.helpx.net | Red de voluntariado en el que se intercambia tiempo de trabajo por alojamiento y comida gratuitos. | <sub>20 € x2 años (opcional)</sub> |
+| Workaway | https://www.workaway.info | Workaway es un red de intercambio cultural. Se ofrecen unas cuantas horas de trabajo a cambio de comida y alojamiento. | <sub>29 USD x año</sub> |
+| TrustedHousesitters | https://www.trustedhousesitters.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | <sub>99 USD x año</sub> |
 | Mindmyhouse | http://www.mindmyhouse.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa.  | <sub>20 USD x año</sub> |
 | Housecarers | https://www.housecarers.com | Esta web ofrece una red de viviendas donde alojarse de manera gratuita a cambio de cuidar los animales y la casa. | <sub>50 USD x año</sub> |
 
