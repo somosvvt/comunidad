@@ -70,7 +70,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
 
-##### Listado de países con Work & Holiday para Chilenos. (En proceso) 
+#### Listado de países con Work & Holiday para Chilenos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
@@ -86,7 +86,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 | República Checa | https://goo.gl/VsU9wr | 18 a 30 años | 200 | 3200 USD |
 | Suecia | https://goo.gl/jDLSZj | 18 a 30 años | Ilimitadas | 15000 SEK |
 
-#### Listado de países con Work & Holiday para Uruguayos. (En proceso) 
+#### Listado de países con Work & Holiday para Uruguayos.
 
 | País | Información oficial | Límite de edad | Cupos anuales | ¿Qué requisitos debo reunir?
 | ------ | ------ | :------------------: |:------: | :------ |
