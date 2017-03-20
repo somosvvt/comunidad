@@ -271,7 +271,7 @@ El coworking es una forma de trabajo que permite a profesionales independientes 
 | 1352 Espacios | http://www.1352espacios.com.ar | 1 | Somos un espacio de trabajo ubicado en el centro de la ciudad de Rosario. | **$1800 + IVA.** Puesto flexible, Lunes a Viernes, Acceso de 9 a 20 hs, Infusiones libres, Conexión a internet, Uso de espacios comunes: cocina, patio, recepción. 4 hs mensual en Sala de Reuniones |
 | Coworking Rosario | http://www.coworkingrosario.com | 1 | Somos un espacio de coworking único en la ciudad de Rosario, ubicado en Ciudad Ribera, Puerto Norte. | **$1650 + IVA.** Todos los días de lunes a viernes, 9hs diarias |
 | REQ | http://www.reqcoworking.com | 1 | REQ Co-Working, espacio de oficinas pensado para emprendedores, freelancers y PYMES. | **$3500 + IVA.** |
-| Brooklyn Coworking | http://www.brooklynco.com.ar/ | 1 | Brooklyn Coworking, un espacio distinto en Nueva Córdoba | **$2500.** |
+| Brooklyn Coworking | http://www.brooklynco.com.ar | 1 | Brooklyn Coworking, un espacio distinto en Nueva Córdoba | **$2500.** |
 
 
 
