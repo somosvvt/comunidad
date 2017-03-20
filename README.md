@@ -309,8 +309,11 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | ------ | ------ | ------ |
 | Wikitravel | http://wikitravel.org | Guía de viajes global, gratis, completa, actualizada, y confiable que recientemente ha superado en sus diversas versiones las 10.000 guías y artículos, escritos y editados por Wikiviajantes procedentes de todos los rincones del globo.  |
 | Hitchwiki | http://hitchwiki.org | Aqui encontrarás toda esa información que jamás encontrarías en una guia de viajes: Cual es el mejor punto para hacer dedo, con quien hay que hablar para que te lleven, donde te podés quedar a dormir, etc. |
-| CeliCity  | http://celicity.com/ |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
-| NomadList  | https://nomadlist.com/ | La guía por excelencia de los Nómades Digitales |
+| CeliCity  | http://celicity.com |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
+| NomadList  | https://nomadlist.com | La guía por excelencia de los Nómades Digitales |
+| Storytrail  | http://www.storytrail.co | Guía audiovisual interactiva para recorrer las principales ciudades de una forma diferente.  |
+
+
 
 #### Idiomas  
 | Sitio | URL | Comentarios
