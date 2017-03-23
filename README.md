@@ -315,6 +315,7 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | CeliCity  | http://celicity.com |CeliCity es una guía de restaurantes y comercios de todo el mundo con productos sin gluten, y también una red social de celiacos con más de 12.000 usuarios que comparten información. Aplicación gratuita para iOS y Android. |
 | NomadList  | https://nomadlist.com | La guía por excelencia de los Nómades Digitales |
 | Storytrail  | http://www.storytrail.co | Guía audiovisual interactiva para recorrer las principales ciudades de una forma diferente.  |
+| VVT  | https://goo.gl/bVKagh | Recorrer Europa: aerolíneas low cost vs. viajes en tren   |
 
 
 
@@ -333,6 +334,8 @@ Listado de las aplicaciones utilizadas y recomendadas por la comunidad.
 | Uber | https://uber.com | Una herramienta de gran importancia para aquellos viajeros que eligen la seguridad y tranquilidad a la hora de llegar destino. |
 | BlaBlaCar |  https://www.blablacar.com | BlaBlaCar conecta personas en Europa que necesitan viajar con conductores que tienen asientos vacíos - Carpooling. |
 | GoEuro |  https://www.goeuro.com | GoEuro es un metabuscador que nuclea a la mayoría de los trenes y buses de larga distancia europeos. |
+| RentalCars |  https://rentalcars.com | RentalCars.com es el mayor comparador de compañías de alquiler de coche del mundo, recogiendo más de 700 marcas diferentes entre más de 45.000 destinos de todo el mundo. |
+
 
 #### Estilo de vida
 
