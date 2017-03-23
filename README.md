@@ -255,6 +255,28 @@ Listado de los sitios utilizado por la comunidad para buscar trabajos remotos.
 
 ***
 
+### Kit de supervivencia 
+
+#### Nazareno Lorenzo 
+
+Edad: 24 años
+Profesión: Software Engineer
+Ubicación Actual: Holanda
+
+- Muchos cables mini usb y lightning.
+- Cargadores usb varios.
+- Adaptador electrico universal. 
+- Una zapatilla electrica. Siempre termina sirviendo.
+- Mac y cargador
+- Equipo de fotografia (Depende del viaje. Sony a6k con 1-3 lentes, 1-2 gopro, algun tripode chiquito/gorillapod)
+- Tarjetas de credito/debito (separadas: algunas en la billetera, otras en la mochila, alguna se queda en el alojamiento, etc) y un par de dolares/euros en efectivo por las dudas.
+- Bateria portatil
+- Un par de candados. Uno mas grande y copado, pero que no entra en todos lockers asi que uno mas pequeño tambien por las dudas.
+- Dos discos externos usb (Salvo que sea viaje muy corto), donde bajo todas las fotos por duplicado y hago lo mismo que con las tarjetas, trato de llevarlos por separado. 
+- Un par de estos organizadores: http://img1.banggood.com/.../6f487eea-c84f-42e1-9cc5... , mas que nada para la ropa interior y posteriormente la ropa sucia.
+- ibuprofeno, alikal, diclofenac y dramamine.
+
+
 ### Coworking 
 
 El coworking es una forma de trabajo que permite a profesionales independientes y emprendedores compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar sus proyectos profesionales de manera independiente, a la vez que fomentan proyectos conjuntos. 
