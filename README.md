@@ -21,6 +21,7 @@
     - [Gratuitos](#sitios-para-encontrar-alojamientos) 
 - [Nómades Digitales](#nómades-digitales)
     - [Trabajo remoto](#trabajo-remoto)
+    - [Kit de supervivencia](#kit-de-supervivencia)
     - [Coworking](#coworking)
        - [Argentina](#coworking-en-argentina)
     - [Herramientas para desarrolladores](#herramientas-para-desarrolladores)
