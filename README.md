@@ -259,9 +259,7 @@ Listado de los sitios utilizado por la comunidad para buscar trabajos remotos.
 
 #### Nazareno Lorenzo 
 
-Edad: 24 años
-Profesión: Software Engineer
-Ubicación Actual: Holanda
+Edad: 24 años | Profesión: Software Engineer | Ubicación Actual: Holanda
 
 - Muchos cables mini usb y lightning.
 - Cargadores usb varios.
