@@ -67,8 +67,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 | Dinamarca | https://goo.gl/9ElbUA | 18 a 30 años | Ilimitadas | 15000 DKK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#dinamarca))| 
 | España | https://goo.gl/Y8G0Nj | 18 a 35 años | 500 | En proceso de aprobación |
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))|
-| Holanda | https://goo.gl/OdT5EM | 18 a 30 años | 100 | No definido| Fecha entrada en vigor
-01/07/2017 |
+| Holanda | https://goo.gl/OdT5EM | 18 a 30 años | 100 | No definido| Fecha entrada en vigor 01/07/2017 |
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1500 € |
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
