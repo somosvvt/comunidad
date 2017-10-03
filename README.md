@@ -69,6 +69,7 @@ Exploramos el mundo y lo compartimos con vos. **Be nerd, be fun... be VVT.**
 | Francia | https://goo.gl/CLpCL8 | 18 a 30 años | 700 |  2500 € ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#francia))|
 | Holanda | https://goo.gl/OdT5EM | 18 a 30 años | 100 | Fecha entrada en vigor 01/07/2017 |
 | Irlanda | https://goo.gl/TvPwBY | 18 a 30 años | 100 | 1500 € |
+| Japón | https://goo.gl/QDH6oV | 18 a 30 años | 50 | Gratis |
 | Noruega | https://goo.gl/DbM3tc | 18 a 30 años | 300 | 31200 NOK ([+Info](https://github.com/somosvvt/comunidad/blob/master/visas-work-and-holiday.md#noruega))
 | Nueva Zelanda | https://goo.gl/E6k0dT | 18 a 35 años | 1000 | 4200 NZD
 
