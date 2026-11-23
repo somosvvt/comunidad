@@ -209,6 +209,7 @@ Listado de los sitios utilizado por la comunidad para buscar alojamientos al mej
 | HRS | http://www.hrs.com | HRS es el mayor proveedor de hoteles a nivel mundial en GDS |
 | Airbnb  | https://www.airbnb.com | Alquiler de habitaciones/casas |
 | Hundred Rooms  | https://www.hundredrooms.com | Compará precios en más de seis millones de apartamentos y casas de vacaciones de todo el mundo, buscando en webs como Booking, 9flats, Only-Apartaments, HouseTrip, Airbnb, Wimdu o HomeAway. |
+| Underbook | https://underbook.co/es | Extensión gratuita para Chrome, Edge, Firefox y Safari. En la página del hotel muestra si otra web de reservas lista la misma estancia a un precio más bajo y si ese precio es para una habitación con el mismo nombre. Avisos gratis de bajada de precio, aun después de reservar. |
 
 
 Listado de los sitios utilizado por la comunidad para buscar alojamientos gratuitos. 
